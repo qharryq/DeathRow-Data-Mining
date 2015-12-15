@@ -1,3 +1,4 @@
+#Webscraper which collects the data we need and writes it to a CSV
 from bs4 import BeautifulSoup
 import urllib
 import csv
@@ -176,54 +177,7 @@ for link in OffInfo:
             victimRaceGender.append(vic)
         except (IndexError, AttributeError) as e:
             victimRaceGender.append("pdf")
-            '''priorOccupation.append("pdf")
-            priorRecord.append("pdf")
-            crime.append("pdf")
-            victimRaceGender.append("pdf")'''
-            print("LOL")
 
-
-
-    '''
-    temp2 = ""
-    for each in ps:
-        y+=1
-        if y==2:
-            temp2 = ps[each].contents.get_text()
-            temp2.encode('utf-8')
-        priorOccupation.append(temp2)
-        if y==3:
-            temp2 = ps[each].get_text()
-            temp2.encode('utf-8')
-        priorRecord.append(temp2)
-        if y==4:
-            temp2 = ps[each].get_text()
-            temp2.encode('utf-8')
-        crime.append(temp2)
-        if y==6:
-            temp2 = ps[each].get_text()
-            temp2.encode('utf-8')
-        victimRaceGender.append(temp2)
-'''
-
-print(len(Execution))
-print(len(Last))
-print(len(First))
-print(len(Number))
-print(len(Age))
-print(len(Date))
-print(len(Race))
-print(len(County))
-print(len(dateReceived))
-print(len(education))
-print(len(dateCrime))
-print(len(ageAtCrime))
-print(len(height))
-print(len(weight))
-print(len(priorOccupation))
-print(len(priorRecord))
-print(len(crime))
-print(len(victimRaceGender))
 
 for i in range(0, 530):
     f.writerow([Execution[i].encode('utf-8'), Last[i].encode('utf-8'), First[i].encode('utf-8'), Number[i].encode('utf-8'), Age[i].encode('utf-8'), Date[i].encode('utf-8'), Race[i].encode('utf-8'), County[i].encode('utf-8'), states[i].encode('utf-8'), dateReceived[i].encode('utf-8'), education[i].encode('utf-8'), dateCrime[i].encode('utf-8'), ageAtCrime[i].encode('utf-8'), height[i].encode('utf-8'), weight[i].encode('utf-8') , priorOccupation[i].encode('utf-8'), priorRecord[i].encode('utf-8'), crime[i].encode('utf-8'), victimRaceGender[i].encode('utf-8')])

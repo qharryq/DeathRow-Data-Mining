@@ -1,3 +1,7 @@
+#results are in sentiment_results.csv
+
+#searches the final statements for words and phrases in the dictionary files.
+#keeps a count of the sentiment in each statement.
 from pprint import pprint
 import nltk
 import yaml

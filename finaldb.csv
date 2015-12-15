@@ -1,0 +1,520 @@
+"num","execution","lastname","firstname","tdcjnumber","age","dateofexecution","race","county","finalstatement","dob","education","dateofcrime","ageatcrime","height","weight","prioroccupation","priorrecord","crime","victim","numofvictims","remorse","religion","denial","anger","acceptance"
+,12,Barney,Jeffery,714,34,1986-04-16,white,Harris,statement given,2042-09-01,12.1,1976-12-14,28,"5' 9",150,N/A,No,Other,N/A,1,1,1,0,0,1
+0,13,Pinkerton,Jay,686,25,1986-05-15,white,Nueces,statement given,1954-09-27,6.0,1980-04-20,24.0,"5' 8",137,,Yes,murder burglary rape ,white female,1.0,1,1,0,0,0
+1,14,Esquivel,Rudy,606,50,1986-06-09,hispanic,Harris,statement given,,,,,,,,No,,,,0,0,0,0,0
+2,15,Brock,Kenneth,522,37,1986-06-19,white,Harris,statement given,,,,,,,,No,,,,0,0,0,0,0
+3,16,Woolls,Randy,646,36,1986-08-20,white,Tom Green,statement given,2049-11-21,,1979-11-21,30.0,,,,Yes,murder ,white female,1.0,1,0,0,0,0
+4,17,Smith,Larry,643,30,1986-08-22,black,Dallas,statement given,2055-08-26,,1979-09-19,30.0,,,Laborer,Yes,murder ,white male,1.0,0,1,0,0,0
+5,18,Wicker,Chester,678,37,1986-08-26,white,Galveston,no statement,,,,,,,,No,,,,0,0,0,0,0
+6,19,Evans,Michael,608,32,1986-12-04,black,Dallas,statement given,2056-11-13,,1978-03-01,30.0,,,mechanic,Yes,murder ,"hispanic female, hispanic male",2.0,1,0,0,0,0
+7,20,Andrade,Richard,774,25,1986-12-18,hispanic,Nueces,no statement,,,,,,,,No,,,,0,0,0,0,0
+8,21,Hernandez,Ramon,667,44,1987-01-30,hispanic,El Paso,no statement,2042-03-02,9.0,1980-09-30,38.0,5 ft 3 in ,130,Welder ,Yes,murder robbery ,Unknown male ,1.0,0,0,0,0,0
+9,22,Moreno,Eliseo,759,27,1987-03-04,hispanic,Fort Bend,no statement,2059-09-27,,1984-02-25,27.0,,,,Yes,murder ,Unknown,1.0,0,0,0,0,0
+10,23,Williams,Anthony,619,27,1987-05-28,black,Harris,statement given,2059-11-08,,1978-11-08,25.0,,,,No,murder rape abduction ,Unknown,1.0,1,0,0,0,0
+11,24,Johnson,Elliot,739,38,1987-06-24,black,Jefferson,no statement,,,,,,,,No,,,,0,0,0,0,0
+12,25,Thompson,John,610,32,1987-07-08,white,Bexar,no statement,2055-01-27,,1978-09-25,31.0,,,Laborer,Yes,murder ,white female,1.0,0,0,0,0,0
+13,26,Starvaggi,Joseph,586,34,1987-09-10,white,Montgomery,no statement,,,1976-11-19,,,,,Yes,murder ,white male,1.0,0,0,0,0,0
+14,27,Streetman,Robert,746,27,1988-01-07,white,Hardin,no statement,,,1982-12-01,,,,,Yes,murder ,white female,1.0,0,0,0,0,0
+15,28,Franklin,Donald,546,38,1988-11-03,black,Nueces,no statement,2042-03-02,9.0,1980-06-20,37.0,5 ft 3 in ,130,,Yes,murder rape ,white female,1.0,0,0,0,0,0
+16,29,"Landry, Sr.",Raymond,738,39,1988-12-13,black,Harris,no statement,2049-05-14,11.0,1983-05-24,33.0,5ft 6 in,167,electrician,No,murder robbery ,Unknown,1.0,0,0,0,0,0
+17,30,King,Leon,624,44,1989-03-22,black,Harris,statement given,2044-05-22,11.0,1978-04-10,34.0,6 ft 2 in ,184,Brickmason,Yes,murder rape ,Unknown,1.0,0,1,0,0,0
+18,31,McCoy,Stephen,769,40,1989-05-24,white,Harris,no statement,2048-12-17,7.0,1984-08-02,32.0,6 ft 0 in ,175,electrician,Yes,murder rape ,white female,1.0,0,0,0,0,0
+19,32,Paster,James,752,44,1989-09-20,white,Harris,statement given,2045-01-30,12.0,1980-10-25,35.0,5 ft 8 in ,156,cook,No,murder ,Unknown,1.0,0,0,0,0,0
+20,33,De Luna,Carlos,744,27,1989-12-07,hispanic,Nueces,statement given,2062-03-15,9.0,1983-02-04,21.0,5 ft 8 in ,185,electrician,Yes,murder robbery ,white female,1.0,0,0,0,0,0
+21,34,Butler,Jerome,852,54,1990-04-21,black,Harris,statement given,2036-04-07,9.0,1986-06-17,50.0,5 ft 6 in,141,delivery driver,Yes,murder ,black male,1.0,0,0,0,0,0
+22,35,Anderson,Johnny,732,30,1990-05-17,white,Jefferson,statement given,2059-12-28,6.0,1981-10-01,21.0,5 ft 9 in ,185,Meat trimmer,No,murder robbery ,White male,1.0,0,0,1,0,0
+23,36,Smith,James,763,37,1990-06-26,black,Harris,no statement,2052-10-19,14.0,1983-03-07,30.0,5 ft 10 in,158,Retail merchant,No,murder robbery ,White male,1.0,0,0,0,0,0
+24,37,Derrick,Mikel,701,33,1990-07-18,white,Harris,statement given,2057-02-10,8.0,1980-10-11,23.0,5 ft 10 in,201,Laborer,Yes,murder robbery ,white male,1.0,1,0,0,0,0
+25,38,Buxton,Lawrence,743,38,1991-02-26,black,Harris,statement given,2052-09-16,10.0,1980-09-19,28.0,5 ft 10 in,230,truck driver,Yes,murder robbery ,white male,1.0,0,0,0,0,0
+26,39,Cuevas,Ignacio,526,59,1991-05-23,hispanic,Harris,statement given,2031-07-31,,1974-08-03,43.0,5 ft 2 in,140,,Yes,murder abduction ,,,0,0,0,0,0
+27,40,Bird,Jerry,512,54,1991-06-17,white,Cameron,statement given,2002-07-31,,,,,,,No,,,,0,0,0,0,0
+28,41,Russell,James,579,42,1991-09-19,black,Fort Bend,statement given,2049-03-05,10.0,1974-03-19,25.0,5 ft 9 in ,150,musician,Yes,murder abduction ,Unknown,1.0,0,0,0,0,0
+29,42,Green,G.W.,576,49,1991-11-12,white,Montgomery,statement given,2036-11-21,14.0,1976-11-19,39.0,5 ft 5 in,130,cement mason,No,murder ,white male,1.0,0,0,0,0,0
+30,43,Cordova,Joe,730,39,1992-01-22,hispanic,Harris,no statement,,,,,,,,No,,,,0,0,0,0,0
+31,44,Garrett,Johnny,729,28,1992-02-11,white,Potter,no statement,2063-12-24,7.0,1981-10-31,17.0,5 ft 11 in ,152,Laborer,No,murder rape ,Unknown,1.0,0,0,0,0,0
+32,45,Clark,David,874,32,1992-02-28,white,Brazos,statement given,2059-03-05,10.0,1987-02-18,28.0,5 ft 8 in ,145,construction,Yes,murder ,"white male, white female",2.0,0,1,0,0,0
+33,46,Ellis,Edward,749,38,1992-03-03,white,Harris,statement given,2053-06-15,10.0,1983-02-27,29.0,5 ft 8 in ,133,welder,Yes,murder ,white female,1.0,1,0,0,0,0
+34,47,white,Billy,585,34,1992-04-23,black,Harris,no statement,2057-10-13,10.0,1976-08-23,18.0,5 ft 11 in ,167,truck driver,No,murder robbery ,white female,1.0,0,0,0,0,0
+35,48,May,Justin,783,46,1992-05-07,white,Brazoria,statement given,2046-04-26,11.0,1978-06-27,32.0,6 ft 1 in ,185,welder,Yes,murder robbery ,white female,1.0,0,0,0,0,0
+36,49,"Romero, Jr.",Jesus,801,27,1992-05-20,hispanic,Cameron,statement given,2065-02-03,11.0,1984-12-24,19.0,5 ft 6 in,128,Laborer,No,murder rape ,hispanic female,1.0,0,0,0,0,0
+37,50,"black, Jr.",Robert,819,45,1992-05-22,white,Brazos,statement given,,,,,,,,No,,,,0,0,0,0,0
+38,51,Johnson,Curtis,761,38,1992-08-11,black,Harris,no statement,,,,,,,,No,,,,0,0,0,0,0
+39,52,Demouchette,James,572,37,1992-09-22,black,Harris,no statement,2055-05-20,9.0,1976-10-17,21.0,5 ft 10 in,150,Painter,Yes,murder ,white male,1.0,0,0,0,0,0
+40,53,Griffin,Jeffery,647,37,1992-11-19,black,Harris,no statement,,,,,,,,No,,,,0,0,0,0,0
+41,54,Lincecum,Kavin,832,29,1992-12-10,black,Brazoria,no statement,,,,,,,,No,,,,0,0,0,0,0
+42,55,Santana,Carlos,695,40,1993-03-23,hispanic,Harris,no statement,2052-10-10,11.0,1981-04-21,28.0,5 ft 9 in ,147,electrician,No,murder robbery ,hispanic male,1.0,0,0,0,0,0
+43,56,Montoya,Ramon,737,38,1993-03-25,hispanic,Dallas,no statement,2054-01-15,7.0,1983-01-16,29.0,5 ft 3 in,125,Laborer,No,murder ,Unknown,1.0,0,0,0,0,0
+44,57,Stewart,Darryl,664,38,1993-05-04,black,Harris,no statement,2055-04-02,12.0,1980-02-06,12.0,5 ft 7 in ,148,mechanic,Yes,murder ,Unknown,1.0,0,0,0,0,0
+45,58,Herrera,Leonel,702,45,1993-05-12,hispanic,Cameron,statement given,2047-09-17,11.0,1981-09-29,34.0,5 ft 11 in ,188,roofer,No,murder ,hispanic male,1.0,0,1,1,0,0
+46,59,Sawyers,John,742,38,1993-05-18,white,Harris,no statement,2055-07-03,12.0,1983-02-02,27.0,5 ft 10 in,165,millwright,No,murder robbery ,white female,1.0,0,0,0,0,0
+47,60,Duff-Smith,Markum,694,46,1993-06-29,white,Harris,statement given,2047-01-14,14.0,1975-10-15,28.0,5 ft 9 in ,146,Insurance investor,No,murder ,white female,1.0,0,1,1,0,0
+48,61,Harris,Curtis,637,31,1993-07-01,black,Brazos,no statement,2061-08-31,8.0,1978-12-11,17.0,5 ft 5 in,144,Laborer,No,murder ,white male,1.0,0,0,0,0,0
+49,62,Harris,Danny,649,32,1993-07-30,black,Brazos,statement given,2060-07-31,9.0,1978-12-11,18.0,5 ft 10 in,156,Laborer,No,murder ,white male,1.0,0,1,0,0,0
+50,63,Jernigan,Joseph,699,39,1993-08-05,white,Navarro,no statement,2054-01-31,13.0,1981-07-03,27.0,5ft 10 in,152,mechanic,Yes,murder ,white male,1.0,0,0,0,0,0
+51,64,Holland,David,820,58,1993-08-12,white,Jefferson,no statement,2035-07-07,13.0,1985-07-16,50.0,5 ft 11 in ,190,Dispatcher,No,murder robbery ,white female,1.0,0,0,0,0,0
+52,65,Kelly,Carl,688,34,1993-08-20,black,McLennan,statement given,2059-03-27,11.0,1980-09-01,21.0,6 ft 2 in ,186,Laborer,Yes,murder abduction ,white female,1.0,0,0,0,0,0
+53,66,Cantu,Ruben,804,26,1993-08-24,hispanic,Bexar,no statement,2066-12-05,9.0,1984-11-08,17.0,"5' 10",142,Laborer ,No,murder robbery ,hispanic male,1.0,0,0,0,0,0
+54,67,Wilkerson,Richard,756,29,1993-08-31,black,Harris,statement given,2064-04-18,10.0,1983-07-01,19.0,5 ft 11 in ,191,Laborer,No,murder ,"hispanic male, hispanic male, hispanic male, white male",4.0,1,0,0,0,0
+55,68,James,Johnny,839,39,1993-09-03,white,Chambers,no statement,2054-01-10,9.0,1985-10-22,31.0,5 ft 9 in ,185,truck driver,No,murder rape ,white female,1.0,0,0,0,0,0
+56,69,Bonham,Antonio,700,33,1993-09-28,black,Harris,no statement,2060-02-06,9.0,1981-07-09,21.0,5 ft 6 in,165,Laborer,Yes,murder abduction ,Unknown,1.0,0,0,0,0,0
+57,70,Cook,Anthony,918,34,1993-11-10,white,Milam,statement given,2059-01-04,9.0,1988-06-09,29.0,5 ft 6 in,150,construction,Yes,murder abduction ,white male,1.0,0,1,0,0,0
+58,71,Phillips,Clifford,723,59,1993-12-15,black,Harris,statement given,2034-12-02,7.0,1982-01-13,47.0,5 ft 7 in ,155,contractor,Yes,murder ,white female,1.0,1,1,1,0,0
+59,72,Barnard,Harold,683,51,1994-02-02,white,Galveston,statement given,2042-11-01,12.0,1980-06-06,37.0,5 ft 8 in ,155,carpenter,Yes,murder ,Vietnamse male,1.0,1,1,0,0,0
+60,73,Webb,Freddie,848,33,1994-03-31,black,Nueces,statement given,2060-08-17,11.0,1980-12-08,25.0,5 ft 8 in ,165,construction,Yes,murder abduction ,hispanic male,1.0,0,0,0,0,0
+61,74,Beavers,Richard,916,39,1994-04-04,white,Harris,no statement,2055-12-09,5.0,1986-08-18,30.0,5 ft 11 in ,200,Laborer,Yes,murder abduction ,white male,1.0,0,0,0,0,0
+62,75,Anderson,Larry,733,41,1994-04-26,white,Harris,no statement,2052-08-30,12.0,1982-03-28,29.0,6 ft 4 in,180,electrician,Yes,murder ,Unkown,1.0,0,0,0,0,0
+63,76,Rougeau,Paul,603,46,1994-05-03,black,Harris,no statement,2047-12-22,9.0,1978-01-06,30.0,6 ft 1 in ,160,carpenter,No,murder ,black male,1.0,0,0,0,0,0
+64,77,Nethery,Stephen,698,33,1994-05-27,white,Dallas,statement given,2060-06-02,12.0,1981-02-23,20.0,5 ft 11 in ,,Laborer,No,murder rape ,white male,1.0,0,1,0,0,0
+65,78,Crank,Denton,803,38,1994-06-14,white,Harris,statement given,2055-10-10,12.0,1984-01-16,29.0,5 ft 9 in ,161,construction,No,murder ,white male,1.0,0,0,0,0,0
+66,79,Drew,Robert,755,35,1994-08-02,white,Harris,statement given,2059-04-08,10.0,1983-02-22,24.0,5 ft 5 in,140,carpenter,No,murder ,white male,1.0,0,0,1,0,0
+67,80,Gutierrez,Jessie,971,29,1994-09-16,hispanic,Brazos,statement given,2065-04-30,8.0,1989-09-05,24.0,5 ft 5 in,155,welder,No,murder robbery ,white female,1.0,0,0,0,0,0
+68,81,Lott,George,999058,47,1994-09-20,white,Potter,no statement,2047-06-07,16.0,1992-07-01,45.0,5 ft 4 in,144,computer programmer,No,murder ,white male,1.0,0,0,0,0,0
+69,82,Williams,Walter,722,32,1994-10-05,black,Bexar,statement given,2062-01-30,12.0,1981-02-11,19.0,5 ft 5 in,130,Laborer,No,murder robbery ,Unknown,1.0,0,0,0,0,0
+70,83,Bridge,Warren,668,34,1994-11-22,white,Galveston,statement given,2060-07-03,11.0,1980-02-10,19.0,5 ft 7 in ,135,cashier,Yes,murder robbery ,Unknown,1.0,0,0,0,0,0
+71,84,"Clark, Jr.",Herman,715,48,1994-12-06,black,Harris,statement given,2046-07-26,14.0,1981-04-04,35.0,5 ft 11 in ,188,Manager,Yes,murder ,Unknown,1.0,0,1,0,0,0
+72,85,Kinnamon,Raymond,808,53,1994-12-11,white,Harris,statement given,2041-11-20,11.0,1984-12-11,43.0,5 ft 10 in,180,mechanic,Yes,murder ,unknown,1.0,0,0,0,0,0
+73,86,Jacobs,Jesse,872,44,1995-01-04,white,Walker,statement given,2050-02-12,12.0,1986-02-21,37.0,5 ft 5 in,131,mechanic,Yes,murder abduction ,white female,1.0,0,1,0,0,0
+74,87,Marquez,Mario,776,36,1995-01-17,hispanic,Bexar,statement given,2058-08-22,6.0,1984-01-27,26.0,5 ft 8 in ,165,Drywaller,No,murder ,unknown,1.0,0,1,0,0,0
+75,88,"Russell, Jr.",Clifton,658,38,1995-01-31,white,Taylor,statement given,2061-08-05,7.0,1979-12-03,18.0,6 ft 1 in ,210,Laborer,No,murder ,white male,1.0,0,1,0,0,0
+76,89,Williams,Willie,677,38,1995-01-31,black,Harris,statement given,2056-02-12,11.0,1980-10-13,25.0,6 ft 0 in ,210,Laborer,No,murder robbery ,unknown,1.0,0,1,0,0,0
+77,90,Motley,Jeffery,789,29,1995-02-07,white,Harris,statement given,2065-09-17,9.0,1984-07-21,19.0,6 ft 2 in ,194,repairman,Yes,murder abduction ,hispanic female,1.0,0,0,0,0,0
+78,91,Gardner,Billy,751,52,1995-02-16,white,Dallas,statement given,2043-07-28,12.0,1983-05-16,39.0,5 ft 11 in ,157,welder,Yes,murder ,Unknown,1.0,1,1,0,0,0
+79,92,Hawkins,Samuel,590,52,1995-02-21,black,Lubbock,no statement,2043-09-01,12.0,1976-02-03,33.0,5 ft 10 in,140,Meat trimmer,Yes,murder rape ,white female,1.0,0,0,0,0,0
+80,93,Mays,Noble,674,42,1995-04-06,white,Wilbarger,no statement,2053-08-15,15.0,1979-04-07,26.0,6 ft 1 in ,185,Roughneck,Yes,murder robbery ,Unknown,1.0,0,0,0,0,0
+81,94,Mann,Fletcher,705,34,1995-06-01,white,Dallas,statement given,2061-04-07,8.0,1980-09-11,19.0,5 ft 6 in,135,Laborer,Yes,murder ,unknown,1.0,0,0,0,0,0
+82,95,Allridge,Ronald,818,35,1995-06-08,black,Tarrant,no statement,2060-09-27,10.0,1985-03-25,24.0,6 ft 4 in,,Unemployed,Yes,murder robbery ,white female,1.0,0,0,0,0,0
+83,96,Fearance,John,626,41,1995-06-20,black,Dallas,statement given,2054-10-27,8.0,1977-12-23,23.0,5 ft 8 in ,157,mechanic,Yes,murder ,white male,1.0,1,0,0,0,0
+84,97,Hammond,Karl,865,31,1995-06-21,black,Bexar,no statement,2064-07-04,9.0,1986-09-04,22.0,5 ft 10 in,170,construction,Yes,murder rape ,Unknown,1.0,0,0,0,0,0
+85,98,Sattiewhite,Vernon,857,40,1995-08-15,black,Bexar,statement given,2055-09-01,10.0,1986-06-19,30.0,5 ft 7 in ,209,fork lift operator,Yes,murder abduction ,black female,1.0,0,0,0,0,0
+86,99,Johnson,Carl,633,40,1995-09-19,black,Harris,statement given,2055-03-05,8.0,1978-10-06,23.0,5 ft 8 in ,150,iron worker,No,murder ,black male,1.0,0,0,1,0,0
+87,100,Lane,Harold,745,50,1995-10-04,white,Dallas,no statement,2045-08-30,9.0,1982-11-20,37.0,5 ft 10 in,160,electrician,Yes,murder ,white female,1.0,0,0,0,0,0
+88,101,Amos,Bernard,926,33,1995-12-06,black,Dallas,no statement,2061-12-22,11.0,1988-01-14,26.0,6 ft 0 in ,150,mechanic,Yes,murder ,Unknown,1.0,0,0,0,0,0
+89,102,Vuong,Hai,904,40,1995-12-07,Other,Jefferson,statement given,2055-09-12,7.0,1986-12-07,31.0,5 ft 5 in,154,shrimper,No,murder ,"Vietnamse male, Vietnamse male",2.0,0,1,0,0,0
+90,103,Banda,Esequel,863,31,1995-12-11,hispanic,Hamilton,no statement,2063-12-19,9.0,1986-08-03,22.0,5 ft 5 in,140,Laborer,Yes,murder rape ,Unknown,1.0,0,0,0,0,0
+91,104,Briddle,James,711,40,1995-12-12,white,Harris,no statement,2055-04-07,7.0,1980-02-24,25.0,5 ft 11 in ,160,Laborer,Yes,murder ,"white male, white male, white male",3.0,0,0,0,0,0
+92,105,Jenkins,Leo,967,38,1996-02-09,white,Harris,no statement,2057-10-12,10.0,1988-08-29,30.0,5 ft 10 in,182,mechanic,Yes,murder ,Unknown,1.0,0,0,0,0,0
+93,106,Granviel,Kenneth,533,45,1996-02-27,black,Tarrant,no statement,2050-08-04,12.0,1974-10-07,24.0,6 ft 2 in ,190,machinist,No,murder ,"black female, black female",2.0,0,0,0,0,0
+94,107,"Gonzales, Jr.",Joe,999177,36,1996-09-18,hispanic,Potter,statement given,2060-11-17,11.0,1992-10-19,31.0,5ft 10 in,253,contractor,Yes,murder ,white male,1.0,1,0,0,0,0
+95,108,"Brimage, Jr.",Richard,899,42,1997-02-10,white,Kleberg,statement given,2055-12-05,12.0,1987-10-05,31.0,5 ft 8 in,153,electrician,Yes,murder abduction ,Unknown,1.0,0,1,1,0,0
+96,109,Barefield,John,844,32,1997-03-12,black,Harris,statement given,2064-03-30,22.0,1986-04-21,22.0,5 ft 8 in,168,carpenter,Yes,murder rape ,white female,1.0,0,0,0,0,0
+97,110,Herman,David,999003,39,1997-04-02,white,Tarrant,statement given,2057-11-07,14.0,1989-12-20,32.0,6 ft 4 in,235,stockbroker,No,murder robbery rape ,white female,1.0,1,0,0,0,0
+98,111,Spence,David,773,40,1997-04-03,white,McLennan,statement given,2056-07-18,9.0,1982-07-13,25.0,5 ft 9 in ,176,roofer,Yes,murder ,"white female, white female, white male",3.0,0,0,0,0,0
+99,112,Woods,Billy,552,50,1997-04-14,white,Harris,no statement,2046-12-20,10.0,1975-10-10,29.0,5 ft 11 in ,150,Laborer,Yes,murder rape ,white female,1.0,0,0,0,0,0
+100,113,Gentry,Kenneth,760,36,1997-04-16,white,Denton,statement given,2061-01-28,9.0,1983-09-10,22.0,6 ft 2 in ,157,mechanic,Yes,murder ,white male,1.0,1,1,0,0,0
+101,114,Boyle,Benjamin,853,53,1997-04-21,white,Potter,no statement,2043-07-22,10.0,1985-10-15,42.0,5 ft 5 in,192,truck driver,No,murder rape ,white female,1.0,0,0,0,0,0
+102,115,Baldree,Ernest,855,55,1997-04-29,white,Navarro,no statement,2042-03-27,7.0,1986-08-20,44.0,5 ft 9 in ,174,construction,Yes,murder robbery ,"white male, white female",2.0,0,0,0,0,0
+103,116,Washington,Terry,884,33,1997-05-06,black,Walker,no statement,2063-09-12,9.0,1987-01-15,23.0,5 ft 6 in,150,dishwasher,Yes,murder ,white female,1.0,0,0,0,0,0
+104,117,Westley,Anthony,797,36,1997-05-13,black,Harris,statement given,2060-07-18,8.0,1984-04-13,23.0,6 ft 3 in,225,Laborer,Yes,murder robbery ,white male,1.0,0,0,0,0,0
+105,118,Belyeu,Clifton,841,38,1997-05-16,white,McLennan,statement given,2058-06-30,7.0,1985-12-10,27.0,5 ft 8 in,165,Painter,Yes,,,,1,1,0,0,0
+106,119,Drinkard,Richard,846,39,1997-05-19,white,Harris,no statement,2057-07-11,12.0,1986-10-16,28.0,5 ft 11 in ,150,carpenter,Yes,murder ,Unknown,1.0,0,0,0,0,0
+107,120,Lackey,Clarence,591,42,1997-05-20,white,Tom Green,statement given,2054-08-03,9.0,1977-07-31,22.0,6 ft 1 in ,190,Laborer,Yes,murder rape ,white female,1.0,0,1,0,0,0
+108,121,Callins,Bruce,717,37,1997-05-21,black,Tarrant,statement given,2060-02-22,10.0,1980-06-27,20.0,5 ft 11 in ,190,cement finisher,No,murder ,Unknown,1.0,0,0,0,0,0
+109,122,white,Larry,640,47,1997-05-22,white,Harris,statement given,2015-03-10,12.0,1977-03-01,26.0,5 ft 8 in,140,Manager,Yes,murder ,white female,1.0,1,1,0,0,0
+110,123,Madden,Robert,822,33,1997-05-28,white,Leon,statement given,2063-03-27,12.0,1985-03-15,22.0,5 ft 9 in ,138,cook,Yes,murder ,"white female, white female",2.0,1,0,0,0,0
+111,124,Rogers,Patrick,816,33,1997-06-02,black,Collin,statement given,2064-01-06,10.0,1985-09-21,21.0,5 ft 5 in,150,waiter,Yes,murder ,white male,1.0,1,1,0,0,0
+112,125,Harris,Kenneth,901,34,1997-06-03,black,Harris,statement given,2062-08-08,11.0,1986-06-07,23.0,5 ft 11 in ,184,truck driver,No,murder rape ,,,1,0,0,0,0
+113,126,"Johnson, Jr.",Dorsie,850,30,1997-06-04,black,Scurry,statement given,2067-03-10,11.0,1986-03-23,19.0,5 ft 2 in,158,janitor,No,murder ,white male,1.0,0,0,0,0,0
+114,127,Losada,Davis,798,32,1997-06-04,hispanic,Cameron,statement given,2065-04-28,11.0,1984-12-23,19.0,5 ft 9 in ,166,cook,Yes,murder rape ,hispanic female,1.0,0,0,0,0,0
+115,128,Behringer,Earl,914,33,1997-06-11,white,Tarrant,statement given,2064-01-03,14.0,1986-09-14,21.0,5 ft 11 in ,186,Student,No,murder ,"white male, white female",2.0,1,1,0,0,0
+116,129,Stoker,David,892,38,1997-06-16,white,Hale,statement given,2059-01-25,8.0,1986-11-09,27.0,5 ft 11 in ,223,carpenter,No,murder robbery ,white male,1.0,0,0,0,0,0
+117,130,Johnson,Eddie,898,44,1997-06-17,black,Aransas,statement given,2052-07-31,11.0,1987-09-29,35.0,6 ft 2 in ,225,welder,Yes,murder abduction ,"white male, white female, white female",3.0,0,0,0,0,0
+118,131,Montoya,Irineo,847,29,1997-06-18,hispanic,Cameron,statement given,2067-06-03,5.0,1985-11-17,18.0,5 ft 8 in,140,Laborer,No,murder ,white male,1.0,0,1,0,0,1
+119,132,"West, Jr.",Robert,731,35,1997-07-29,white,Harris,statement given,2061-12-12,8.0,1982-08-24,20.0,5 ft 10 in,139,student,No,murder ,Unknown,1.0,1,0,0,0,0
+120,133,Davis,James,786,34,1997-09-09,black,Travis,statement given,2063-02-08,8.0,1984-03-03,21.0,5 ft 9 in ,156,roofer,No,murder rape ,"black male, black male, black female",3.0,0,0,0,0,1
+121,134,Turner,Jessel,895,37,1997-09-22,black,Harris,statement given,2060-06-07,11.0,1986-02-10,26.0,6 ft 1 in ,180,truck driver,No,murder robbery ,Unknown,1.0,0,1,0,0,0
+122,135,Stone,Benjamin,999187,45,1997-09-25,white,Nueces,statement given,2052-06-03,12.0,1995-07-01,43.0,6 ft 0 in ,175,plumber,No,murder rape ,"white female, white female",2.0,0,0,0,0,0
+123,136,Cockrum,John,854,38,1997-09-30,white,Bowie,statement given,2058-12-20,9.0,1986-05-29,27.0,5 ft 9 in ,175,bricklayer,No,murder robbery ,white female,1.0,1,1,0,0,0
+124,137,Adanandus,Dwight,940,41,1997-10-01,black,Bexar,statement given,1989-02-19,11.0,1988-01-28,31.0,5 ft 10 in,148,mechanic,Yes,murder robbery ,Unknown,1.0,1,0,0,0,0
+125,138,Green,Ricky,984,36,1997-10-08,white,Tarrant,statement given,2060-12-27,8.0,1986-12-27,26.0,5 ft 8 in,170,radiator repair,No,murder rape ,white male,1.0,1,1,0,0,0
+126,139,Ransom,Kenneth,772,34,1997-10-28,black,Harris,statement given,2063-05-15,12.0,1983-07-01,20.0,5 ft 9 in ,169,plumber,Yes,murder ,"hispanic male, hispanic male, hispanic male, white male",4.0,1,0,1,0,0
+127,140,Lauti,Aua,843,43,1997-11-04,Other,Harris,statement given,2054-06-18,11.0,1985-12-19,31,5 ft 10 in,225,landscaping,Yes,murder ,Unknown,1.0,0,1,0,0,0
+128,141,Fuller,Aaron,964,30,1997-11-06,white,Dawson,statement given,2067-08-26,11.0,1989-03-18,21.0,5 ft 11 in ,175,mechanic,Yes,murder robbery ,white female,1.0,0,1,0,0,0
+129,142,Sharp,Michael,740,43,1997-11-19,white,Crockett,statement given,2054-04-24,13.0,1982-06-11,28.0,5 ft 11 in ,150,oilfield worker,Yes,murder rape abduction ,white female,1.0,1,1,0,0,0
+130,143,Livingston,Charlie,802,35,1997-11-21,black,Harris,statement given,2062-02-14,10.0,1983-08-10,21.0,5 ft 8 in,,warehouseman,Yes,murder robbery ,white female,1.0,0,0,0,0,0
+131,144,Lockhart,Michael,917,37,1997-12-09,white,Bexar,statement given,2060-09-30,11.0,1988-03-22,27.0,5 ft 10 in,165,Laborer,Yes,murder ,white male,1.0,0,0,0,0,0
+132,145,Tucker,Karla,777,38,1998-02-03,white,Harris,statement given,2059-11-18,7.0,1983-06-13,23.0,5 ft 3 in ,121,office worker,No,murder robbery ,"white male, white female",1.0,1,1,0,0,0
+133,146,Renfro,Steven,999229,40,1998-02-09,white,Harrison,statement given,2057-09-14,,1996-08-25,38.0,6 ft 1 in ,215,Laborer,No,murder ,"white female, white female, white male",3.0,1,1,0,0,0
+134,147,Hogue,Jerry,660,47,1998-03-11,white,Tarrant,statement given,2050-09-26,10.0,1979-01-12,28.0,5 ft 6 in,170,mechanic,Yes,murder ,white female,1.0,1,0,0,0,0
+135,148,Cannon,Joseph,634,38,1998-04-22,white,Bexar,statement given,2060-01-13,0.0,1977-09-30,17.0,6 ft 1 in ,140,Laborer,No,murder ,white female,1.0,1,0,0,0,0
+136,149,Gosch,Lesley,842,42,1998-04-24,white,Victoria,no statement,2055-07-08,,1985-09-18,30.0,5 ft 5 in,140,Barton,No,murder robbery ,white female,1.0,0,0,0,0,0
+137,150,McFarland,Frank,963,34,1998-04-29,white,Tarrant,statement given,2063-10-07,10.0,1988-02-01,24.0,5 ft 10 in,160,electrician,No,murder rape ,white female,1.0,0,0,0,0,0
+138,151,Carter,Robert,708,34,1998-05-18,black,Harris,statement given,2064-02-10,10.0,1981-06-24,17.0,6 ft 0 in ,156,Laborer,No,murder robbery ,unknown,1.0,1,0,0,0,0
+139,152,Muniz,Pedro,575,41,1998-05-19,hispanic,Williamson,statement given,2056-09-25,10.0,1976-12-20,20.0,5 ft 4 in,152,Laborer,No,murder rape ,white female,1.0,0,0,0,0,1
+140,153,Boggess,Clifford,887,32,1998-06-11,white,Clay,statement given,2065-06-11,12.0,1986-07-23,21.0,"6' 2",232,"carpenter's  helper, bookkeeper",Yes,murder ,white  male,1.0,1,1,0,0,0
+141,154,Pyles,Johnny,724,40,1998-06-15,white,Dallas,statement given,2057-12-30,16.0,1982-06-20,25.0,5 ft 6 in,155,Brickmason,Yes,murder ,white male,1.0,1,1,0,0,0
+142,155,Narvaiz,Leopoldo,923,30,1998-06-26,hispanic,Bexar,no statement,2068-03-13,9.0,1988-04-15,20.0,5 ft 8 in,155,Laborer,No,murder ,"white female, white female, white female, white male",4.0,0,0,0,0,0
+143,156,"Camacho, Jr.",Genaro,972,43,1998-08-26,hispanic,Dallas,statement given,2054-09-14,13.0,1988-05-20,33.0,5 ft 7 in ,185,Broker,Yes,murder ,black male,1.0,0,1,0,0,0
+144,157,"Teague, Jr.",Delbert,849,35,1998-09-09,white,Tarrant,statement given,2062-11-11,10.0,1985-04-28,22.0,5 ft 8 in,131,construction,Yes,murder robbery ,white male,1.0,0,0,0,0,0
+145,158,Castillo,David,770,43,1998-08-23,hispanic,Hidalgo,statement given,2064-08-11,9.0,1983-07-14,19.0,5 ft 6 in,171,electrician,Yes,murder ,hispanic male,1.0,0,0,0,0,1
+146,159,Cruz,Javier,999061,41,1998-10-01,hispanic,Bexar,statement given,2057-09-13,9.0,1991-06-07,33.0,5 ft 7 in ,208,food store clerk,Yes,murder ,"black male, white male",2.0,0,1,0,0,0
+147,160,Nobles,Jonathan,885,37,1998-10-07,white,Travis,statement given,2061-08-27,8.0,1986-09-13,25.0,5 ft 11 in ,202,electrician,Yes,murder ,"white female, white female",2.0,0,0,0,0,0
+148,161,McDuff,Kenneth,999055,52,1998-11-17,white,Harris,statement given,2046-03-21,9.0,1992-03-01,45.0,6 ft 3 in,255,machine operator,Yes,murder abduction ,white female,1.0,0,0,0,0,0
+149,162,Corwin,Daniel,969,40,1998-12-07,white,Montgomery,statement given,2058-09-13,15.0,1987-01-31,29.0,5 ft 9 in ,165,cabinet maker,Yes,,"white female, white female, white female",3.0,1,0,0,0,0
+150,163,Emery,Jeff,830,49,1998-12-08,white,Brazos,statement given,2059-06-25,8.0,1979-10-12,20.0,5 ft 8 in,160,air conditioner repairman,No,murder burglary rape ,white female,1.0,0,0,0,0,0
+151,164,Meanes,James,689,42,1998-12-15,black,Harris,statement given,2056-06-08,12.0,1981-04-30,,5 ft 8 in,145,welder,Yes,murder robbery ,hispanic male,1.0,0,1,0,0,0
+152,165,Moody,John,933,46,1999-01-05,white,Taylor,statement given,2052-10-17,12.0,1988-07-03,35.0,5 ft 10 in,175,landscaping,Yes,murder robbery ,,,1,1,0,0,0
+153,166,Farris,Troy,831,36,1999-01-13,white,Tarrant,statement given,2062-02-26,12.0,1983-12-04,21.0,6 ft 0 in ,185,electrician,No,murder ,white male,1.0,0,1,0,0,0
+154,167,Vega,Martin,932,52,1999-01-26,hispanic,Caldwell,statement given,2046-10-17,3.0,1985-07-27,38.0,5 ft 10 in,165,Laborer,Yes,murder ,Unknown,1.0,0,0,1,0,0
+155,168,Cordova,George,706,39,1999-02-10,hispanic,Bexar,statement given,2059-03-26,6.0,1979-08-04,19.0,5 ft 8 in,140,Laborer,Yes,murder ,hispanic male,1.0,0,0,0,0,0
+156,169,Barber,Danny,673,43,1999-02-11,white,Dallas,statement given,2055-05-08,12.0,1979-10-08,24.0,5 ft 7 in ,140,roofer,No,murder ,"white female, Unknown",2.0,0,1,0,0,0
+157,170,Cantu,Andrew,999,30,1999-02-16,hispanic,Taylor,no statement,2067-12-05,11.0,1990-06-11,22.0,5 ft 7 in ,155,construction,Yes,murder ,Unknown,1.0,0,0,0,0,0
+158,171,Green,Norman,805,38,1999-02-24,black,Bexar,no statement,2060-11-07,14.0,1985-02-13,24.0,6 ft 1 in ,160,hotel housekeeper,Yes,murder robbery ,Unknown,1.0,0,0,0,0,0
+159,172,Rector,Charles,721,44,1999-03-26,black,Travis,statement given,2054-04-16,8.0,1981-10-17,27.0,5 ft 8 in,160,Paint and body repairman,Yes,murder rape ,,,1,1,0,0,0
+160,173,white,Excell,511,61,1999-03-30,white,Collin,no statement,2038-03-14,10.0,1974-05-11,36.0,6 ft 1 in ,172,mechanic,No,murder ,"white male, white male, white male",3.0,0,0,0,0,0
+161,174,Foust,Aaron,999268,26,1999-04-28,white,Tarrant,statement given,1972-07-28,12.0,1997-05-18,24.0,6ft 0 in,180,Laborer,No,murder robbery ,white  male,1.0,0,0,0,0,1
+162,175,De La Cruz,Jose,908,31,1999-05-04,hispanic,Nueces,no statement,2068-04-26,10.0,1987-06-01,19.0,5 ft 9 in ,139,mechanic,Yes,murder robbery ,hispanic male,1.0,0,0,0,0,0
+163,176,Coleman,Clydell,968,62,1999-05-05,black,McLennan,no statement,2036-10-01,11.0,1989-02-24,52.0,6 ft 1 in ,160,janitor,Yes,murder ,black female,1.0,0,0,0,0,0
+164,177,Little,William,788,38,1999-06-01,white,Liberty,no statement,2060-10-25,9.0,1983-12-03,23.0,6 ft 1 in ,191,roofer,No,murder rape ,white female,1.0,0,0,0,0,0
+165,178,Faulder,Joseph,580,61,1999-06-17,white,Gregg,no statement,2037-10-19,10.0,1975-07-08,37.0,5 ft 7 in ,171,mechanic,Yes,murder ,Unknown,1.0,0,0,0,0,0
+166,179,Tuttle,Charles,999183,35,1999-07-01,white,Smith,statement given,2064-06-26,10.0,1995-02-24,30.0,5 ft 8 in,212,construction,Yes,murder ,white female,1.0,1,0,0,0,0
+167,180,Fuller,Tyrone,934,35,1999-07-07,black,Grayson,statement given,2063-08-01,11.0,1988-01-20,24.0,6 ft 0 in ,212,coaching,Yes,murder ,white female,1.0,0,0,0,0,0
+168,181,blackmon,Ricky,893,41,1999-08-04,white,Shelby,no statement,2057-11-21,,1987-03-28,29.0,6 ft 1 in ,214,cook,No,murder robbery ,white male,1.0,0,0,0,0,0
+169,182,Boyd,Charles,891,39,1999-08-05,black,Dallas,statement given,2059-08-17,12.0,1987-04-13,27.0,5 ft 9 in ,148,janitor,No,murder ,white female,1.0,0,0,0,0,0
+170,183,Dunn,Kenneth,675,39,1999-08-10,black,Harris,no statement,2059-10-03,9.0,1980-03-17,20.0,5 ft 6 in,130,Laborer,No,murder robbery ,white female,1.0,0,0,0,0,0
+171,184,Earhart,James,905,56,1999-08-11,white,Lee,no statement,2043-04-29,7.0,1987-05-12,44.0,5 ft 9 in ,258,Salesman,No,murder abduction ,white female,1.0,0,0,0,0,0
+172,185,"Trevino, Jr.",Joe,767,37,1999-08-18,hispanic,Tarrant,no statement,2062-07-25,12.0,1983-01-17,20.0,5 ft 10 in,165,Paint and body repairman,Yes,murder rape ,white female,1.0,0,0,0,0,0
+173,186,Jones,Raymond,959,39,1999-09-01,black,Jefferson,no statement,2060-01-01,8.0,1988-06-17,28.0,"5' 11 ",150,laborer,Yes,murder robbery ,Asian male,1.0,0,0,0,0,0
+174,187,Barnes,Willis,935,51,1999-09-10,black,Harris,statement given,2048-08-13,11.0,1988-02-11,39.0,"5' 11 ",153,Antique refinisher,Yes,murder rape ,female,1.0,1,1,0,0,1
+175,188,Davis,William,614,42,1999-09-14,black,Harris,statement given,2057-04-24,7.0,1978-06-02,21.0,"5' 7 ",142,Roofer,Yes,murder robbery ,male,1.0,1,1,0,0,0
+176,189,Smith,Richard,999116,43,1999-09-21,white,Harris,no statement,2056-01-12,14.0,1992-12-03,36.0,"5' 8 ",246,Electrician,Yes,murder ,female,1.0,0,0,0,0,0
+177,190,Crane,Alvin,888,41,1999-10-12,white,Denton,statement given,2058-05-06,8.0,1987-03-28,28.0,"6' 0 ",204,Oil Field Operator,No,murder ,black male,1.0,1,1,0,0,0
+178,191,McFadden,Jerry,875,51,1999-10-14,white,Upshur,no statement,2048-03-21,7.0,1986-05-05,38.0,"5' 9 ",208,Telephone cable installer,Yes,murder rape abduction ,white female,1.0,0,0,0,0,0
+179,192,"Cantu, Jr.",Domingo,924,31,1999-10-28,hispanic,Dallas,statement given,2068-06-07,,1988-06-25,20.0,"5' 8 ",178,,Yes,murder rape ,white female,1.0,0,1,0,0,0
+180,193,Jennings,Desmond,999161,28,1999-11-16,black,Tarrant,no statement,1971-10-04,9.0,1993-12-27,22.0,"5' 6",183,Nurse Aid,No,murder robbery ,"black male, black female",2.0,0,0,0,0,0
+181,194,Lamb,John,734,42,1999-11-17,white,Hunt,statement given,2057-07-24,11.0,1982-11-06,25.0,"5' 10",145,laborer,Yes,murder robbery ,white male,1.0,1,0,0,0,0
+182,195,Gutierrez,Jose,970,39,1999-11-18,hispanic,Brazos,statement given,2060-10-14,8.0,1989-09-05,28.0,"5'4 ",189,Construction,Yes,murder robbery ,white female,1.0,1,1,0,0,0
+183,196,Long,David,862,46,1999-12-08,white,Dallas,statement given,2053-07-15,13.0,1986-09-27,33.0,"5' 9 ",181,Cable TV technician,No,murder ,3 white females,3.0,1,0,0,0,0
+184,197,Beathard,James,785,42,1999-12-09,white,Trinity,statement given,2057-02-23,15.0,1984-10-09,27.0,"5' 10 ",197,Mechanic,No,murder robbery ,"2 white males , 1 female underage",3.0,0,0,1,0,0
+185,198,Atworth,Robert,999199,30,1999-12-14,white,Dallas,statement given,2068-08-18,11.0,1995-04-02,26.0,"6' 1  ",179,laborer,No,murder robbery ,white male,1.0,0,0,0,0,0
+186,199,"Felder, Jr.",Sammie,550,54,1999-12-15,black,Harris,statement given,2045-08-23,7.0,1975-02-26,30.0,"6' 0 ",190,Attendant,Yes,murder burglary ,white male,1.0,0,0,0,0,0
+187,200,"Heiselbetz, Jr.",Earl,999014,48,2000-01-12,white,Sabine,statement given,2051-04-01,11.0,1991-05-30,40.0,"6' 2 ",210,Truck Driver,No,murder abduction ,2 white females,2.0,0,0,0,0,0
+188,201,Goodman,Spencer,999031,31,2000-01-18,white,Fort Bend,statement given,2068-10-28,12.0,1991-07-02,22.0,"5' 10  ",200,Restaurant manager,Yes,murder abduction ,white female,1.0,0,0,0,0,0
+189,202,Hicks,David,930,38,2000-01-20,black,Freestone,statement given,2062-01-15,11.0,1988-04-25,26.0,"5' 8 ",148,laborer,Yes,murder rape ,black female,1.0,0,0,0,0,0
+190,203,Robison,Larry,748,42,2000-01-21,white,Tarrant,no statement,2057-08-12,13.0,1982-08-10,24.0,"6' 0 ",150,Carpenter,No,murder rape ,"3 white males, 2 white females",5.0,0,0,0,0,0
+191,204,"Hughes, Jr.",Billy,556,47,2000-01-24,white,Matagorda,statement given,1952-01-28,12.0,1976-04-04,24.0,"5' 10 ",165,"Farmer, Laborer",No,murder robbery,white male,1.0,0,0,1,0,0
+192,205,McGinnis,Glen,999039,27,2000-01-25,black,Montgomery,no statement,1973-01-11,10.0,1990-08-01,17.0,"6' 0 ",172,laborer,Yes,murder robbery ,white female,1.0,0,0,0,0,0
+193,206,Moreland,James,741,39,2000-01-27,white,Henderson,statement given,2060-05-15,8.0,1982-10-09,22.0,"5' 7 ",126,laborer,No,murder ,2 white males,2.0,1,1,0,0,0
+194,207,Goss,Cornelius,912,38,2000-02-23,black,Dallas,statement given,2061-05-24,11.0,1987-05-20,25.0,"5' 9 ",155,Laborer,Yes,murder burglary ,male,1.0,1,1,0,0,0
+195,208,Beets,Betty,810,62,2000-02-24,white,Henderson,no statement,2037-03-12,10.0,1983-08-06,46.0,"5'2 ",118,Cashier,No,murder ,white male,1.0,0,0,0,0,0
+196,209,"Barnes, Jr.",Odell,998,31,2000-03-01,black,Lubbock,statement given,2068-03-22,11.0,1989-11-29,21.0,"6' 2  ",171,Construction,Yes,murder robbery rape ,white female,1.0,0,0,0,0,0
+197,210,Wilkerson,Ponchai,999011,28,2000-03-14,black,Harris,no statement,1971-07-15,11.0,1990-11-28,19.0,"5' 8 ",140,laborer,No,murder robbery ,Asian male,1.0,0,0,0,0,0
+198,211,Gribble,Timothy,929,36,2000-03-15,white,Galveston,statement given,2063-08-27,11.0,1987-09-09,24.0,"5' 10 ",204,Mechanic,No,murder rape ,white female,1.0,1,1,0,0,1
+199,212,Jackson,Tommy,821,43,2000-05-04,black,Williamson,statement given,2056-11-15,14.0,1983-11-17,27.0,"5' 7 ",120,Computer Technician,Yes,murder robbery abduction ,white female,1.0,1,1,0,0,1
+200,213,Kitchens,William,840,37,2000-05-09,white,Taylor,statement given,2063-04-27,8.0,1986-05-17,23.0,"6'3 ",185,Painter,Yes,murder rape abduction ,white female,1.0,1,1,0,0,0
+201,214,McBride,Michael,903,38,2000-05-11,white,Lubbock,statement given,2062-01-03,12.0,1985-10-21,23.0,"5'4 ",141,Bartender,No,murder ,"1 white male, 1 white female",2.0,1,1,0,0,0
+202,215,Richardson,James,867,32,2000-05-23,black,Navarro,statement given,2067-09-07,11.0,1986-12-17,19.0,"5' 9 ",170,Construction,Yes,murder ,white male,1.0,1,1,0,0,0
+203,216,Foster,Richard,815,47,2000-05-24,white,Parker,statement given,2052-08-16,11.0,1984-04-05,31.0,"5' 9 ",194,Roofer,Yes,murder robbery ,male,1.0,0,1,0,0,0
+204,217,Clayton,James,921,33,2000-05-25,black,Taylor,statement given,2066-11-30,14.0,1987-09-17,20.0,"5' 11 ",188,Clerical,No,murder abduction ,white female,1.0,1,1,0,0,0
+205,218,Carter,Robert,999091,34,2000-05-31,black,Bastrop,statement given,2066-03-07,12.0,1992-08-18,26.0,"5' 9 ",171,Correctional Officer,No,murder ,"5 black females, 1 black male underage",6.0,1,1,0,0,0
+206,219,Mason,Thomas,999035,48,2000-06-12,white,Smith,statement given,2051-12-31,9.0,1991-10-02,39.0,"6' 1  ",217,Drywaller,No,murder ,2 white females,2.0,0,0,1,0,0
+207,220,Burks,John,949,44,2000-06-14,black,McLennan,statement given,2056-01-18,9.0,1989-01-20,33.0,"5' 6 ",155,Cement Finisher,Yes,murder robbery ,hispanic male,1.0,0,1,0,0,0
+208,221,Nuncio,Paul,999158,32,2000-06-15,hispanic,Hale,statement given,2068-10-20,,1993-12-03,25.0,"5'4 ",130,Clerk,No,murder burglary rape ,white female,1.0,1,1,1,0,0
+209,222,Graham,Gary,696,39,2000-06-22,black,Harris,statement given,2061-09-05,9.0,1981-05-13,18.0,"5' 10 ",155,laborer,No,murder robbery ,white male,1.0,1,0,1,0,0
+210,223,San Miguel,Jessy,999008,28,2000-06-29,hispanic,Dallas,statement given,1971-09-05,10.0,1991-01-26,19.0,"5' 7 ",180,laborer,No,murder robbery ,white male,1.0,0,0,0,0,0
+211,224,Joiner,Orien,902,50,2000-07-12,white,Lubbock,statement given,2049-10-27,12.0,1986-12-17,37.0,"5' 6 ",199,Truck Driver,No,murder rape ,2 white females,2.0,1,1,1,0,0
+212,225,Soria,Juan,837,33,2000-07-26,hispanic,Tarrant,statement given,2067-05-15,9.0,1985-06-28,18.0,"6' 0 ",163,Auto body repair,No,murder robbery ,white male,1.0,0,1,0,0,0
+213,226,Roberson,Brian,886,36,2000-08-09,black,Dallas,statement given,2063-10-08,12.0,1986-08-30,22.0,"5' 11 ",190,Electrician,No,murder burglary ,white male,1.0,0,0,0,0,0
+214,227,Cruz,Oliver,954,33,2000-08-09,hispanic,Bexar,statement given,2067-05-18,7.0,1988-08-07,21.0,"5'4 ",104,Laborer,No,murder rape abduction ,white female,1.0,1,1,0,0,0
+215,228,Satterwhite,John,651,53,2000-08-16,black,Bexar,no statement,2046-12-29,9.0,1979-03-12,32.0,"5' 6 ",162,Mechanic,Yes,murder robbery ,white female,1.0,0,0,0,0,0
+216,229,Jones,Richard,882,40,2000-08-22,white,Tarrant,statement given,2060-04-09,12.0,1986-02-19,25.0,"6' 2 ",184,Construction,Yes,murder ,white female,1.0,0,0,1,0,0
+217,230,Gibbs,David,825,39,2000-08-23,white,Montgomery,statement given,2061-03-17,10.0,1985-07-01,24.0,"5' 10  ",166,Nurse Aid,Yes,murder burglary ,2 white females,2.0,1,0,0,0,0
+218,231,Caldwell,Jeffery,938,37,2000-08-30,black,Dallas,statement given,2063-03-01,12.0,1988-07-25,25.0,"6' 1  ",173,Cook,Yes,murder ,"1 black male, 2 black females",3.0,1,1,0,0,0
+219,232,McGinn,Ricky,999150,43,2000-09-27,white,Brown,statement given,2057-03-11,11.0,1993-05-22,36.0,"5' 9 ",189,Mechanic,No,murder rape ,white female (underage),1.0,0,1,0,0,0
+220,233,Dillingham,Jeffery,999071,27,2000-11-01,white,Wichita,statement given,1973-03-06,12.0,1992-03-12,19.0,"6' 1  ",205,Video Store Manager,No,murder ,white female,1.0,1,1,0,0,0
+221,234,Flores,Miguel,983,31,2000-11-09,hispanic,Collin,statement given,2069-06-07,12.0,1989-06-28,20.0,"5' 7 ",165,Laborer,No,murder rape abduction ,white  female  ,1.0,1,1,0,0,0
+222,235,Lawton,Stacey,999066,31,2000-11-14,black,Smith,statement given,2069-07-10,10.0,1992-12-24,23.0,"6' 1  ",180,Carpenter,Yes,murder robbery ,white male,1.0,1,1,0,0,0
+223,236,Chambers,Tony,999009,32,2000-11-15,black,Smith,statement given,2067-12-20,10.0,1990-11-19,22.0,"5' 6 ",125,laborer,No,murder rape ,black female underage,1.0,0,0,0,0,0
+224,237,Miller,Garry,947,33,2000-12-05,white,Jones,statement given,2067-11-02,12.0,1988-11-11,21.0,"5' 11 ",195,Bartender,No,murder rape abduction ,white female (underage),1.0,1,1,0,0,0
+225,238,Hittle,Daniel,981,50,2000-12-06,white,Dallas,statement given,2050-03-01,14.0,1989-11-15,39.0,"5' 7 ",175,Welder,Yes,murder ,white male,1.0,0,0,0,0,0
+226,239,Jones,Claude,980,60,2000-12-07,white,San Jacinto,statement given,2040-09-24,9.0,1989-11-14,49.0,"5' 8 ",230,Electrician,Yes,murder robbery ,white male,1.0,1,0,0,0,0
+227,240,Clark,Jack,994,37,2001-01-09,white,Lubbock,statement given,2063-07-29,10.0,1989-10-16,26.0,"5'4 ",119,Press Operator,No,murder rape ,hispanic female,1.0,1,0,0,0,0
+228,241,Goodwin,Alvin,879,37,2001-01-18,white,Montgomery,statement given,2063-12-27,10.0,1986-11-30,22.0,"5'4 ",190,Carpenter,Yes,murder abduction ,white male,1.0,0,0,0,0,0
+229,242,Alexander,Caruthers,704,52,2001-01-29,black,Bexar,no statement,2048-09-07,11.0,1981-04-23,32.0,"5' 10 ",204,Truck Driver,Yes,murder rape ,female,1.0,0,0,0,0,0
+230,243,Hernandez,Adolph,978,50,2001-02-08,hispanic,Lubbock,statement given,2050-09-01,7.0,1988-09-30,38.0,"5'5 ",175,Barber,Yes,murder robbery ,hispanic female,1.0,0,1,0,0,0
+231,244,Dowthitt,Dennis,999047,55,2001-03-07,white,Montgomery,statement given,2045-06-20,10.0,1990-06-13,44.0,"5' 10  ",155,Sales,No,murder ,2 white females,2.0,1,1,0,0,0
+232,245,Massey,Jason,999121,28,2001-04-03,white,Ellis,statement given,1973-01-07,8.0,1993-07-27,20.0,"5' 10  ",156,Roofer,No,murder ,"1 white male, 1 white female",2.0,1,1,0,0,0
+233,246,Goff,David,999015,31,2001-04-25,black,Tarrant,statement given,2069-01-09,8.0,1990-09-01,21.0,"5' 9 ",151,laborer,Yes,murder robbery ,1 white male,1.0,0,1,0,0,0
+234,247,Wheat,John,999222,57,2001-06-13,white,Tarrant,statement given,2044-05-22,11.0,1995-07-30,51.0,"5' 9 ",150,Welder,No,murder ,"2 white females, 1 white male (underage)",3.0,1,0,0,0,0
+235,248,Richardson,Miguel,691,46,2001-06-26,black,Bexar,statement given,2054-07-07,14.0,1979-03-31,24.0,"5' 10  ",170,laborer,Yes,murder robbery ,white male,1.0,1,1,0,0,0
+236,249,Wilkens,James,897,39,2001-07-11,white,Smith ,statement given,2061-07-29,10.0,1986-12-27,25.0,"5'5 ",165,Cook,Yes,murder ,2 white males (underage),2.0,1,1,0,0,1
+237,250,Hill,Mack,961,47,2001-08-08,white,Lubbock ,statement given,2053-08-12,7.0,1987-03-03,33.0,"6' 0 ",160,Painter,Yes,murder robbery ,white male,1.0,0,0,1,0,0
+238,251,Doughtie,Jeffery,999106,39,2001-08-16,white,Nueces ,statement given,2061-10-03,9.0,1993-08-02,31.0,"5' 10  ",177,laborer,No,murder robbery ,"white male, white female",2.0,0,0,0,0,0
+239,252,Knox,James,823,50,2001-09-18,white,Galveston ,no statement,2051-07-12,8.0,1982-11-10,31.0,"5' 11 ",131,Drywall Finished ,Yes,murder robbery ,hispanic male,1.0,0,0,0,0,0
+240,253,Mitchell,Gerald,838,33,2001-10-22,black,Harris ,statement given,2067-12-27,10.0,1985-06-04,17.0,"5' 11 ",168,Carpenter,No,murder robbery ,2 males (unknown),2.0,1,1,0,0,0
+241,254,Tucker,Jeffery,952,41,2001-11-14,white,Parker ,statement given,2060-01-01,10.0,1988-07-11,28.0,"6'4 ",237,Truck Driver,Yes,murder robbery ,white male,1.0,1,1,0,0,0
+242,255,Rudd,Emerson,936,31,2001-11-15,black,Dallas ,statement given,1970-08-09,11.0,1988-09-02,18.0,"5' 8 ",145,laborer,No,murder robbery ,black male,1.0,1,0,0,0,0
+243,256,Cooks,Vincent,927,37,2001-12-12,black,Dallas ,statement given,2064-07-26,9.0,1988-02-26,23.0,"6' 0 ",318,Electrician,Yes,murder robbery ,white male,1.0,1,0,0,0,0
+244,257,Moore,Michael,999126,31,2002-01-09,white,Coryell ,statement given,2063-09-16,8.0,1994-02-26,30.0,"5' 9 ",160,Painter,No,murder robbery ,white female,1.0,1,1,0,0,1
+245,258,Arnold,Jermarr,987,43,2002-01-16,black,Nueces ,statement given,2058-09-27,12.0,1983-07-15,25.0,"6' 1  ",230,Construction,Yes,murder robbery ,hispanic female,1.0,1,1,0,0,0
+246,259,Broussard,Windell,999064,41,2002-01-30,black,Jefferson ,statement given,2060-03-05,7.0,1992-04-24,32.0,"5' 8 ",117,Farmer,Yes,murder ,"1 black female, 1 black male",2.0,0,0,0,0,0
+247,260,"Hafdahl, Sr.",Randall,826,48,2002-01-31,white,Randall ,statement given,2053-06-17,10.0,1985-11-11,32.0,"6'4 ",196,Painter,No,murder ,white male,1.0,1,1,0,0,0
+248,261,Delk,Monty,900,35,2002-02-28,white,Anderson ,statement given,2067-02-24,13.0,1986-11-29,19.0,"5' 11 ",220,Assistant Restaurant Manager,No,murder robbery ,white male,1.0,0,0,0,0,0
+249,262,Tigner,Gerald,999099,29,2002-03-07,black,McLennan ,statement given,1972-12-27,9.0,1993-08-31,20.0,"6' 0 ",210,laborer,No,murder ,2 black males,2.0,0,0,0,0,0
+250,263,"Santellan, Sr.",Jose,999140,40,2002-04-10,hispanic,Kerr ,statement given,2062-03-08,10.0,1993-08-22,31.0,"5' 10 ",189,"Shipping  & Receiving, Laborer",Yes,murder ,hispanic  female,1.0,1,1,0,0,0
+251,264,Burns,William,692,43,2002-04-11,black,Bowie ,statement given,2058-07-04,12.0,1981-03-28,22.0,"5' 7 ",145,laborer,No,murder robbery ,white male,1.0,1,0,0,0,0
+252,265,Casey,Gerald,999013,47,2002-04-18,white,Montgomery ,no statement,2055-01-15,11.0,1989-07-10,34.0,"5' 9 ",140,Iron Worker,No,murder robbery ,white female,1.0,0,0,0,0,0
+253,266,Hernandez,Rodolfo,807,54,2002-04-30,hispanic,Comal ,statement given,2049-11-18,7.0,1985-03-07,35.0,"5' 8 ",181,Musician,Yes,murder ,hispanic male,1.0,0,1,0,0,0
+254,267,Reeves,Reginald,999119,28,2002-05-09,black,Red River ,statement given,1974-04-21,11.0,1993-09-09,19.0,"5'5 ",140,Factory worker,No,murder rape ,white female (underage),1.0,1,1,0,0,0
+255,268,Styron,Ronford,999124,32,2002-05-16,white,Liberty ,statement given,2069-08-23,11.0,1993-10-26,24.0,"5' 8 ",180,laborer,No,murder ,white male (underage),1.0,0,1,0,0,0
+256,269,Martinez,Johnny,999089,29,2002-05-22,hispanic,Nueces ,statement given,1972-11-20,11.0,1993-07-15,21.0,"5' 6 ",174,Direct Care Technician,No,murder robbery ,white male,1.0,1,1,0,0,0
+257,270,Beazley,Napoleon,999141,25,2002-05-28,black,Smith ,statement given,1976-08-05,12.0,1994-04-19,17.0,,,laborer,No,murder robbery ,white male,1.0,1,0,0,0,0
+258,271,"Baker, Jr.",Stanley,999157,35,2002-05-30,white,Brazos ,statement given,2066-12-30,14.0,1994-09-28,27.0,"5' 9 ",200,Receiving Clerk,No,murder robbery ,white male,1.0,1,0,0,0,0
+259,272,Reneau,Daniel,999223,27,2002-06-13,white,Gillespie,no statement,1975-04-15,11.0,1996-01-02,20.0,"5' 10 ",170,Nurse Aid,No,murder robbery ,white male,1.0,0,0,0,0,0
+260,273,Coulson,Robert,999115,34,2002-06-25,white,Harris,statement given,2068-03-11,14.0,1992-11-13,24.0,"5' 11 ",176,Sales,No,murder ,"3 white females, 2 white males",5.0,0,0,1,0,0
+261,274,Williams,Jeffrey,999154,30,2002-06-26,black,Harris,statement given,1971-10-15,9.0,1994-10-26,23.0,"5' 9 ",191,Cook,Yes,murder rape ,black female,1.0,0,1,0,0,0
+262,275,Kutzner,Richard,999227,59,2002-08-07,white,Montgomery,statement given,2042-11-17,12.0,1996-01-05,53.0,"5' 9 ",180,Gardener,Yes,murder robbery ,white female,1.0,0,0,0,0,0
+263,276,Jones,T.J.,999133,25,2002-08-08,black,Gregg,statement given,1976-11-01,8.0,1994-02-02,17.0,,,Cook,No,murder robbery ,white male,1.0,1,0,0,0,0
+264,277,Medina,Javier,944,33,2002-08-14,hispanic,Dallas,statement given,2069-06-17,10.0,1988-12-13,20.0,"5' 7 ",121,Food Service,No,murder robbery ,hispanic male,1.0,1,1,0,0,0
+265,278,Etheridge,Gary,986,38,2002-08-20,white,Brazoria,statement given,2064-01-03,9.0,1990-02-02,26.0,"5' 10 ",165,Maintenance worker,Yes,murder rape ,white female underage,1.0,1,0,0,0,0
+266,279,Patterson,Toronto,999178,24,2002-08-28,black,Dallas,statement given,1977-10-17,10.0,1995-06-06,17.0,"6' 2  ",174,Laborer,No,murder burglary ,3 black females (underage),3.0,1,1,0,0,1
+267,280,Walker,Tony,999082,36,2002-09-10,black,Morris,statement given,2066-04-15,9.0,1992-05-23,35.0,"5' 9 ",235,Welder,Yes,murder burglary rape ,"black male, black female",2.0,1,0,0,0,0
+268,281,Patrick,Jessie,975,44,2002-09-17,white,Dallas,no statement,2058-02-23,10.0,1989-07-08,31.0,"5' 11 ",154,Landscaping,Yes,murder burglary rape ,white female,1.0,0,0,0,0,0
+269,282,Shamburger,Ron,999167,30,2002-09-18,white,Brazos,statement given,1971-11-11,16.0,1994-09-30,22.0,"5' 9 ",173,Cashier,No,murder robbery ,white female,1.0,1,1,0,0,0
+270,283,Mays,Rex,999172,42,2002-09-24,white,Harris,statement given,2060-01-21,,1992-07-20,32.0,"5' 7 ",176,,No,murder ,2 white females (underage),2.0,1,1,0,0,0
+271,284,King,Calvin,999152,48,2002-09-25,black,Jefferson,statement given,2053-10-31,9.0,1994-02-26,40.0,"6' 2  ",200,Landscaping,Yes,murder robbery ,black male,1.0,1,1,0,0,0
+272,285,Powell,James,999001,56,2002-10-01,white,Newton,statement given,2046-08-23,,1990-10-06,44.0,"5' 8 ",160,Electrician,No,murder rape abduction ,white female,1.0,0,0,0,0,0
+273,286,Ogan,Craig,979,47,2002-11-19,white,Harris,statement given,2054-12-18,15.0,1989-12-09,34.0,"5' 10  ",190,laborer,No,murder ,white male,1.0,0,0,0,0,0
+274,287,Chappell,William,960,66,2002-11-20,white,Tarrant,statement given,2036-09-26,11.0,1988-05-03,51.0,"5' 8 ",148,Engineer,Yes,murder ,2 white females,2.0,1,1,0,0,0
+275,288,Rojas,Leonard,999194,52,2002-12-04,hispanic,Johnson,no statement,2050-06-16,11.0,1994-12-27,44.0,"5' 10  ",190,Carpenter,Yes,murder ,"white female, hispanic male",2.0,0,0,0,0,0
+276,289,Collier,James,999190,55,2002-12-11,white,Wichita,statement given,2047-01-07,7.0,1995-03-14,48.0,"5' 11 ",170,Carpenter,Yes,murder ,"white male, white female",2.0,0,0,0,0,0
+277,290,Gallamore,Samuel,999090,31,2003-01-14,white,Comal,statement given,1971-02-15,8.0,1992-03-29,21.0,"6' 2  ",165,Sculptor,No,murder robbery ,"1 white male, 2 white females",3.0,1,0,0,0,0
+278,291,Baltazar,John,999257,30,2003-01-15,hispanic,Nueces,no statement,1972-05-09,9.0,1997-09-27,25.0,"5' 11 ",155,Laborer ,Yes,murder ,hispanic  female,1.0,0,0,0,0,0
+279,292,Lookingbill,Robert,990,37,2003-01-22,white,Hidalgo,statement given,1989-12-05,11.0,1989-12-05,24.0,"5' 11 ",165,Construction,Yes,murder robbery ,white female,1.0,0,1,0,0,0
+280,293,Curry,Alva,999080,32,2003-01-28,black,Travis,statement given,2069-03-22,9.0,1991-10-16,22.0,"5' 7 ",152,laborer,No,murder robbery ,hispanic male,1.0,1,1,0,0,0
+281,294,Dinkins,Richard,999022,40,2003-01-29,white,Jefferson,statement given,2062-09-29,12.0,1990-09-12,27.0,"5' 6  ",126,Machinist,No,murder ,2 white females,2.0,1,1,0,0,0
+282,295,Riddle,Granville,965,33,2003-01-30,white,Potter,statement given,2069-06-17,8.0,1988-10-09,19.0,"5' 8 ",166,Electrician,Yes,murder burglary ,white male,1.0,0,0,0,0,0
+283,296,Elliott,John,861,42,2003-02-04,hispanic,Travis,no statement,2060-03-25,9.0,1986-06-13,26.0,"5' 11 ",160,Carpenter,Yes,murder rape ,hispanic female,1.0,0,0,0,0,0
+284,297,"Dunn, Jr.",Henry,999165,28,2003-02-06,black,Smith,statement given,1974-07-29,10.0,1993-11-30,19.0,"5' 7 ",145,Cook,No,murder abduction ,hispanic male,1.0,1,0,1,0,0
+285,298,Williams,Richard,999251,33,2003-02-25,black,Harris,statement given,2069-07-19,10.0,1997-03-24,27.0,"6' 0  ",208,Laborer,Yes,murder ,black  female,1.0,1,1,1,0,0
+286,299,Cook,Bobby,999094,41,2003-03-11,white,Anderson,statement given,2061-12-03,9.0,1993-02-06,31.0,"5' 6 ",148,,Yes,murder robbery ,White male,1.0,1,0,0,0,0
+287,300,Clay,Keith,999238,35,2003-03-20,black,Harris,statement given,2068-02-18,12.0,1994-01-04,25.0,"5' 9  ",180,Laborer,Yes,murder robbery ,Unknown  male,1.0,1,1,0,0,0
+288,301,Colburn,James,999169,43,2003-03-26,white,Montgomery,statement given,2060-02-29,9.0,1994-06-26,34.0,"5' 6  ",141,laborer,Yes,murder rape ,white female,1.0,0,1,0,0,0
+289,302,Chavez,John,999186,34,2003-04-22,hispanic,Dallas,statement given,2068-04-27,8.0,1995-07-02,27.0,"5' 8 ",143,Painter,Yes,murder robbery ,hispanic male,1.0,1,1,0,0,0
+290,303,Vaughn,Roger,999029,48,2003-05-06,white,Wilbarger,no statement,2054-10-11,10.0,1991-10-16,37.0,"6' 1  ",243,Electrician,Yes,murder robbery rape ,white female,1.0,0,0,0,0,0
+291,304,Jacobs,Bruce,876,56,2003-05-15,white,Dallas,statement given,2046-10-13,10.0,1986-07-22,39.0,"5' 2 ",138,laborer,Yes,murder ,white male (underage),1.0,0,1,0,0,0
+292,305,Johnson,Kia,999139,38,2003-06-11,black,Bexar,statement given,2064-12-23,12.0,1993-10-29,28.0,"6' 2  ",160,Cook,Yes,murder burglary ,white male,1.0,0,0,0,0,0
+293,306,Crawford,Hilton,999200,64,2003-07-02,white,Montgomery,statement given,2039-03-14,15.0,1995-09-12,56.0,"5' 11 ",208,Security Officer,No,murder ,white male (underage),1.0,1,1,0,0,0
+294,307,"black, Sr.",Christopher,999277,43,2003-07-09,black,Bell,no statement,2059-08-02,12.0,1998-02-07,38.0,"6' 0 ",240,Unknown,No,murder ,black  female,1.0,0,0,0,0,0
+295,308,Ransom,Cedric,999050,29,2003-07-23,black,Tarrant,statement given,1973-08-18,9.0,1991-12-07,18.0,"5' 8 ",160,laborer,No,murder robbery ,white male,1.0,0,0,0,0,0
+296,309,Janecka,Allen,684,53,2003-07-24,white,Harris,statement given,2049-11-03,12.0,1979-07-05,29.0,"6' 0  ",165,laborer,Yes,murder ,"white female, 2 white males (underage)",3.0,0,1,0,0,0
+297,310,Hayes,Larry,999358,54,2003-09-10,white,Montgomery,statement given,1948-11-23,12.0,1999-07-15,50.0,"5' 9  ",198,Laborer,Yes,murder ,white  female and black female,2.0,1,0,0,0,0
+298,311,Henry,Robert,999129,41,2003-11-20,white,San Patricio,no statement,2062-09-26,14.0,1993-09-05,30.0,"5' 8 ",184,Sales,No,murder ,2 white females,2.0,0,0,0,0,0
+299,312,Duncan,Richard,999153,61,2003-12-03,white,Harris,statement given,2042-05-19,12.0,1987-10-07,45.0,"6' 1  ",170,Contractor,No,murder ,"white male, white female",2.0,0,0,1,0,0
+300,313,Murphy,Ivan,989,38,2003-12-04,white,Grayson,statement given,2065-01-10,12.0,1989-01-09,24.0,"5' 8 ",185,Mechanic,Yes,murder robbery ,white female,1.0,0,1,0,0,0
+301,314,Matthews,Ynobe,999387,27,2004-01-06,black,Brazos,no statement,1976-04-14,11.0,2000-05-28,24.0,"5' 9  ",288,"cook,  carpenter, laborer",No,murder rape abduction ,white  female,1.0,0,0,0,0,0
+302,315,Bruce,Kenneth,999023,32,2004-01-14,black,Collin,statement given,1971-10-21,11.0,1990-12-10,19.0,"5' 7 ",151,Delivery man,No,murder robbery ,white female,1.0,1,1,0,0,0
+303,316,Zimmerman,Kevin,977,42,2004-01-21,white,Jefferson,statement given,2061-05-17,6.0,1987-10-23,26.0,"5' 10 ",135,Tankerman,Yes,murder ,white male,1.0,1,1,0,0,1
+304,317,Vickers,Billy,999087,58,2004-01-28,white,Lamar,statement given,2045-07-03,6.0,1993-03-12,47.0,"5' 7 ",191,Salesman,Yes,murder robbery ,white male,1.0,1,0,0,0,0
+305,318,Lagrone,Edward,999083,46,2004-02-11,black,Tarrant,statement given,2057-03-03,10.0,1991-05-30,24.0,"5' 10 ",206,Cook,Yes,murder ,3 black females (underage),3.0,0,1,0,0,0
+306,319,Hopkins,Bobby,999101,36,2004-02-12,black,Johnson,no statement,2067-02-23,11.0,1993-07-31,26.0,"5' 8 ",139,Bull Rider,No,murder ,2 white females,2.0,0,0,0,0,0
+307,320,Willingham,Cameron,999041,36,2004-02-17,white,Navarro,statement given,2068-01-09,10.0,1991-12-23,23.0,"5' 9 ",177,Mechanic,No,murder ,3 white females (underage),3.0,0,1,1,0,0
+308,321,Cotton,Marcus,999252,29,2004-03-03,black,Harris,statement given,1974-09-28,9.0,1996-09-18,22.0,"5' 6  ",147,Laborer ,Yes,murder robbery ,white  male,1.0,0,1,0,0,0
+309,322,Patterson,Kelsey,999065,50,2004-05-18,black,Anderson,statement given,2054-03-24,,1992-09-25,38.0,"5' 10  ",,,No,murder ,"white male, white female",2.0,0,0,0,0,0
+310,323,Harris,David,827,43,2004-06-30,white,Jefferson,statement given,2060-10-19,9.0,1985-09-01,24.0,"5' 10  ",160,Brick Layer,Yes,murder abduction ,white male,1.0,0,1,0,0,0
+311,324,Busby,Jasen,999201,28,2004-08-25,white,Cherokee,statement given,1975-11-21,11.0,1995-04-17,19.0,"5' 7 ",130,laborer,No,murder ,2 white females,2.0,1,0,0,0,0
+312,325,"Allridge, III",James,870,41,2004-08-26,black,Tarrant,statement given,2062-11-14,12.0,1985-02-04,22.0,"6' 2  ",153,Furniture builder,No,murder robbery ,white male,1.0,1,0,0,0,0
+313,326,Flores,Andrew,999100,32,2004-09-21,hispanic,Bexar,statement given,1972-08-09,10.0,1993-07-26,20.0,"6' 2  ",163,Restaurant workers,No,murder robbery ,hispanic male,1.0,1,1,0,0,0
+314,327,Green,Edward,999073,30,2004-10-05,black,Harris,statement given,1974-03-05,9.0,1992-08-31,18.0,"5' 7 ",154,Laborer,No,murder robbery ,"Unknown male, unknown female",2.0,1,1,0,0,0
+315,328,Miniel,Peter,920,42,2004-10-06,hispanic,Harris,statement given,2062-06-23,9.0,1986-05-09,23.0,"5' 7 ",190,Construction,Yes,murder robbery ,white male,1.0,0,1,0,0,0
+316,329,Aldrich,Donald,999113,39,2004-10-12,white,Kerr,statement given,2064-11-06,10.0,1993-11-30,29.0,"5' 8 ",190,Baker,Yes,murder robbery abduction ,hispanic male,1.0,1,0,0,0,0
+317,330,Morrow,Ricky,753,53,2004-10-20,white,Dallas,statement given,2051-05-29,10.0,1982-01-19,30.0,"5' 10  ",145,Welder,Yes,murder robbery ,unknown,1.0,1,0,0,0,0
+318,331,Green,Dominique,999068,30,2004-10-26,black,Harris,statement given,1974-05-13,12.0,1992-10-14,18.0,,,,No,murder robbery ,unknown male,1.0,1,0,0,0,0
+319,332,Morris,Lorenzo,999038,52,2004-11-02,black,Harris,no statement,2052-09-25,10.0,1990-08-05,37.0,"5' 9 ",164,laborer,Yes,murder robbery ,unknown male,1.0,0,0,0,0,0
+320,333,Morrow,Robert,999244,47,2004-11-04,white,Liberty,statement given,2057-06-03,,1996-04-03,38.0,"5' 11  ",175,Roughneck,Yes,murder abduction ,white  female  ,1.0,1,0,0,0,0
+321,334,McCullum,Demarco,999180,30,2004-11-09,black,Harris,statement given,1974-10-02,12.0,1994-07-30,19.0,,,unemployed,No,murder robbery abduction ,white male,1.0,0,0,0,0,0
+322,335,McWilliams,Frederick,999242,30,2004-11-10,black,Harris,statement given,1973-12-01,11.0,1996-09-28,22.0,"5' 7  ",201,Warehouse  Worker,Yes,murder robbery ,hispanic  male,1.0,0,0,0,0,0
+323,336,Fuentes,Anthony,999215,30,2004-11-17,hispanic,Harris,statement given,1974-11-05,12.0,1994-02-18,20.0,"5' 9 ",140,Mover,No,murder robbery ,white male,1.0,1,0,0,0,0
+324,337,Porter,James,999378,33,2005-01-04,white,Bowie,statement given,1971-08-15,7.0,2000-05-28,28.0,"5' 9  ",131,"carpenter,  laborer",Yes,murder ,hispanic  male,1.0,1,1,0,0,0
+325,338,Kunkle,Troy,784,38,2005-01-25,white,Nueces,statement given,2066-05-27,11.0,1984-08-12,18.0,"6' 1  ",163,Student,No,murder robbery abduction ,white male,1.0,1,1,0,0,0
+326,339,Bagwell,Dennis,999209,41,2005-02-17,white,Atascosa,statement given,2063-12-27,9.0,1995-09-20,31.0,"5' 11  ",160,Salesman,Yes,murder rape ,4 white females (underage),4.0,0,0,0,0,0
+327,340,Hopper,George,999037,49,2005-03-08,white,Dallas,statement given,2055-10-06,12.0,1983-10-04,27.0,"5' 9 ",183,Auto body repair,No,murder rape ,white female,1.0,1,1,0,0,0
+328,341,Roberts,Douglas,999218,42,2005-04-20,white,Kendall,statement given,1997-01-22,12.0,1996-05-18,33.0,"5' 10  ",215,Machinist,Yes,murder robbery abduction ,hispanic male,1.0,0,1,0,0,0
+329,342,Pursley,Lonnie,999294,43,2005-05-03,white,Polk,statement given,1961-09-17,9.0,1997-03-29,35.0,"5' 8 ",229,"Cook,  Laborer",Yes,murder robbery ,white  male,1.0,1,1,0,0,0
+330,343,Wolfe,Bryan,999079,44,2005-05-18,black,Jefferson,statement given,2060-06-07,12.0,1992-02-15,31.0,"5' 8 ",162,Food Service,Yes,murder robbery ,black female,1.0,0,1,0,0,1
+331,344,Cartwright,Richard,999224,31,2005-05-19,white,Nueces,statement given,1974-02-11,12.0,1996-08-01,22.0,"6' 2  ",175,Mechanic,No,murder robbery ,hispanic male,1.0,1,0,0,0,0
+332,345,Martinez,Alexander,999438,28,2005-06-07,hispanic,Harris,statement given,1976-06-16,8.0,2001-08-12,25.0,"5' 1  ",227,fast  food,Yes,murder rape ,white  female,1.0,0,0,0,0,0
+333,346,Martinez,David,999288,29,2005-07-28,hispanic,Travis,statement given,0976-04-24,11.0,1997-07-27,21.0,"5' 10  ",224,Unknown ,No,murder rape ,white  female,1.0,0,0,0,0,0
+334,347,Sterling,Gary,931,38,2005-08-10,black,Navarro,statement given,2067-07-25,12.0,1988-05-13,20.0,"6' 1  ",176,Farm worker,No,murder robbery abduction ,"white male, white female",2.0,1,0,0,0,0
+335,348,Shields,Robert,999166,30,2005-08-23,white,Galveston,no statement,1975-01-23,12.0,1994-09-21,19.0,"5' 10  ",171,Sales,No,murder burglary ,white female,1.0,0,0,0,0,0
+336,349,Newton,Francis,922,40,2005-09-14,black,Harris,no statement,2065-04-12,12.0,1987-04-07,21.0,"5' 3  ",128,Accounting,Yes,murder ,"2 black males, 1 black female (underage)",3.0,0,0,0,0,0
+337,350,Howard,Ronald,999069,32,2005-10-06,black,Travis,statement given,1973-07-22,7.0,1992-04-11,18.0,"5' 11 ",168,Food Service,Yes,murder burglary ,white male,1.0,0,0,0,0,0
+338,351,Ramirez,Luis,999309,42,2005-10-20,hispanic,Tom Green,statement given,1963-06-19,12.0,1998-04-08,34.0,"5' 5 ",148,"carpenter,  laborer",No,murder ,hispanic  male,1.0,0,1,0,0,0
+339,352,white,Melvin,999317,55,2005-11-03,white,Pecos,statement given,1950-01-25,9.0,1997-08-05,47.0,"5' 9  ",205,Mechanic/Laborer,No,murder rape abduction ,white  female ,1.0,1,1,0,0,0
+340,353,Thacker,Charles,999103,37,2005-11-09,white,Harris,statement given,2068-09-18,8.0,1993-04-07,24.0,"5' 8 ",172,Maintenance,Yes,murder rape ,white female,1.0,1,1,0,0,0
+341,354,Rowell,Robert,999104,50,2005-11-15,white,Harris,statement given,2055-04-08,9.0,1993-05-10,38.0,"5' 8 ",168,Laborer,Yes,murder robbery ,Unknown  males,2.0,1,1,0,0,0
+342,355,Thomas,Shannon,999213,34,2005-11-16,black,Harris,statement given,1971-07-27,13.0,1993-12-24,22.0,"5' 9 ",250,Machinist,No,murder ,"2 hispanic males, 1 hispanic female, underage",3.0,0,0,0,0,0
+343,356,Dudley,Marion,999136,33,2006-01-25,black,Harris,no statement,1972-05-13,10.0,1992-06-20,20.0,"5' 6 ",149,laborer,No,murder ,"2 hispanic males, 1 hispanic female",3.0,0,0,0,0,0
+344,357,"Elizalde, Jr.",Jaime,999230,34,2006-01-31,hispanic,Harris,statement given,1971-12-12,8.0,1994-11-05,22.0,"5' 6 ",115,Welder,Yes,murder ,2 hispanic males,2.0,0,1,0,0,0
+345,358,"Neville, Jr.",Robert,999293,31,2006-02-08,white,Tarrant,statement given,1974-10-05,11.0,1998-02-15,23.0,"6' 0 ",140,Laborer,Yes,murder abduction ,white  female,1.0,1,1,0,0,0
+346,359,"Smith, Jr.",Clyde,999088,32,2006-02-15,black,Harris,statement given,1973-08-31,9.0,1992-02-06,18.0,"6' 0 ",191,Security Officer,No,murder ,2 males (unknown),2.0,0,0,0,0,0
+347,360,Hughes,Tommie,999273,31,2006-03-15,black,Dallas,statement given,1974-08-15,12.0,1997-08-13,22.0,"5' 7  ",195,Laborer,No,murder robbery ,black  female,1.0,0,0,0,0,0
+348,361,"Salazar, Jr.",Robert,999303,27,2006-03-22,hispanic,Lubbock,statement given,1978-10-24,9.0,1997-04-23,18.0,"5' 7 ",190,Laborer,No,,hispanic  female,1.0,1,1,0,0,0
+349,362,Kincy,Kevin,999179,38,2006-03-29,black,Harris,statement given,2068-01-31,12.0,1993-03-26,25.0,"5' 10  ",140,Roughneck,Yes,murder robbery ,black male,1.0,0,0,0,0,0
+350,363,Wilson,Jackie,957,39,2006-05-04,white,Dallas,statement given,2067-02-12,12.0,1988-11-30,21.0,"5' 8 ",265,Brick Layer,No,murder rape abduction ,white female (underage),1.0,0,1,0,0,0
+351,364,Herron,Jermaine,999304,27,2006-05-17,black,Refugio,statement given,1979-01-13,10.0,1997-06-26,18.0,"5' 11 ",220,"ranch helper, painter, laborer ",No,murder ,white  male and white female,2.0,1,1,0,0,0
+352,365,Aguilar,Jesus,999191,42,2006-05-24,hispanic,Cameron,statement given,2063-11-28,11.0,1995-06-10,31.0,"5' 9 ",185,Brick Layer,Yes,murder ,"hispanic female,hispanic male",2.0,0,0,0,0,0
+353,366,Titsworth,Timothy,999078,34,2006-06-06,white,Randall,statement given,1972-03-08,8.0,1993-07-23,20.0,"5' 9 ",204,Roofer,Yes,murder robbery ,white female,1.0,1,1,0,0,0
+354,367,Reese,Lamont,999374,28,2006-06-20,black,Tarrant,statement given,1977-10-16,10.0,1999-03-01,21.0,"5' 10  ",207,Laborer,No,murder ,3  black males,3.0,0,1,0,0,1
+355,368,Resendiz,Angel,999356,45,2006-06-27,hispanic,Harris,statement given,2060-08-01,7.0,1998-12-17,38.0,"5' 6  ",190,Laborer,Yes,murder ,hispanic  female,1.0,1,1,0,0,1
+356,369,OBrien,Derrick,999131,31,2006-07-11,black,Harris,statement given,1975-04-05,9.0,1993-06-24,18.0,"5' 8 ",177,laborer,No,murder rape abduction ,2 white males,2.0,1,0,0,0,0
+357,370,Brown,Mauriceo,999234,31,2006-07-19,black,Bexar,statement given,1975-07-03,10.0,1996-08-15,21.0,"6' 1  ",159,Telemarketing,No,murder robbery ,black male,1.0,1,1,0,0,0
+358,371,Anderson,Robert,999084,40,2006-07-20,white,Potter,statement given,2066-05-29,12.0,1992-06-09,26.0,"6' 2  ",149,Security Officer,No,murder rape abduction ,white female (underage),1.0,1,1,0,0,0
+359,372,"Wyatt, Jr.",William,999255,41,2006-08-03,black,Bowie,statement given,1964-12-20,12.0,1997-02-04,32.0,"6' 1  ",250,Correctional Officer,No,murder rape ,black  male,1.0,1,0,0,0,0
+360,373,Hinojosa,Richard,999246,43,2006-08-17,hispanic,Bexar,statement given,2061-11-17,5.0,1994-05-10,32.0,"5' 10  ",224,Construction Worker ,Yes,murder robbery rape abduction ,white  female,1.0,1,1,0,0,0
+361,374,Fuller,Justin,999266,27,2006-08-24,black,Smith,statement given,1978-08-29,12.0,1997-04-21,18.0,"6' 0  ",165,Laborer,No,murder robbery abduction ,white  male,1.0,0,0,0,0,0
+362,375,Frazier,Derrick,999284,29,2006-08-31,black,Refugio,statement given,1977-04-28,9.0,1997-06-26,20.0,"5' 10  ",176,Unknown,Yes,murder ,white  female and white male,2.0,0,0,1,0,0
+363,376,Matchett,Farley,999060,43,2006-09-12,black,Harris,statement given,2062-11-19,12.0,1991-07-12,28.0,"6' 1  ",166,Truck Driver,No,murder robbery ,unknown male,1.0,1,1,0,0,0
+364,377,Summers,Gregory,999010,48,2006-10-25,white,Denton,no statement,1978-03-14,11.0,1990-06-11,32.0,"5' 10  ",140,Contractor,No,murder ,"2 white males, 1 white female",3.0,0,0,0,0,0
+365,378,Jackson,Donell,999206,33,2006-11-01,black,Harris,statement given,1972-12-11,8.0,1998-08-31,20.0,,,laborer,No,murder robbery ,2 males (unknown),2.0,0,0,0,0,0
+366,379,Shannon,Willie,999086,30,2006-11-08,black,Harris,statement given,1973-06-12,10.0,1972-07-19,20.0,"5' 10  ",150,laborer,No,murder ,hispanic male,1.0,1,1,0,0,0
+367,380,Granados,Carlos,999307,36,2007-01-10,hispanic,Williamson,statement given,1970-09-18,11.0,1998-09-13,27.0,"5' 3 ",172,Laborer,No,murder ,hispanic  female and 3-year old hispanic male (underage,2.0,1,0,0,0,0
+368,381,Moore,Jonathan,999216,32,2007-01-17,white,Bexar,statement given,1974-04-04,12.0,1995-01-15,20.0,6-0 ,145,Telemarketing,No,murder ,hispanic male,1.0,1,0,0,0,0
+369,382,Swift,Christopher,999496,31,2007-01-30,white,Denton,no statement,1975-02-12,10.0,2003-04-29,28.0,"5' 9 ",150,Laborer,Yes,murder ,Two  white females,2.0,0,0,0,0,0
+370,383,Jackson,James,999272,47,2007-02-07,black,Harris,statement given,2059-06-13,12.0,1997-04-08,37.0,"6' 3  ",204,Gardener,Yes,murder ,Three  black females  ,3.0,0,1,0,0,0
+371,384,Anderson,Newton,999355,30,2007-02-22,white,Smith,statement given,1976-08-08,8.0,1999-03-04,22.0,5 ft 10 in,163,Laborer,Yes,murder ,one  white male and one white female,2.0,1,0,0,0,0
+372,385,Miller,Donald,728,44,2007-02-27,white,Harris,no statement,2062-06-12,11.0,1982-02-02,19.0,"6' 0 ",155,Painter,No,murder robbery ,2 white males,2.0,0,0,0,0,0
+373,386,Perez,Robert,999322,48,2007-03-06,hispanic,Dallas,statement given,2058-06-29,9.0,1994-04-17,35.0,"5' 5 ",165,Laborer,Yes,murder ,2  hispanic males,2.0,0,0,0,0,0
+374,387,Nichols,Joseph,709,45,2007-03-07,black,Harris,statement given,2061-09-08,11.0,1980-10-13,19.0,,165,Laborer,No,murder robbery ,unknown male,1.0,0,0,0,0,0
+375,388,Nealy,Charles,999289,42,2007-03-20,black,Dallas,statement given,2064-03-23,10.0,1997-08-20,33.0,"6' 0  ",180,Unknown ,No,murder robbery ,Asian  male,1.0,0,1,0,0,0
+376,389,Gutierrez,Vincent,999262,28,2007-03-28,hispanic,Bexar,statement given,1978-10-01,8.0,1997-03-11,18.0,"5' 6  ",142,None,Yes,murder ,hispanic  male  ,1.0,1,1,0,0,0
+377,390,Pippin,Roy,999170,51,2007-03-29,white,Harris,statement given,2055-04-03,12.0,1994-05-04,39.0,"5' 11  ",235,AC/Heating Technician,No,murder abduction ,2 hispanic males,2.0,1,1,1,0,0
+378,391,Clark,James,999095,38,2007-04-11,white,Denton,statement given,2068-05-13,9.0,1993-06-07,25.0,"5' 9 ",157,Plumber��_��__��_��_s  Helper,Yes,murder robbery rape ,white  female,1.0,0,0,0,0,0
+379,392,Dickson,Ryan,999250,30,2007-04-26,white,Potter,statement given,1976-11-11,7.0,1994-11-27,18.0,"5' 3  ",171,Cook,No,murder robbery ,"white  male, white female",2.0,1,0,0,0,0
+380,393,Smith,Charles,953,41,2007-05-16,white,Pecos,no statement,2066-02-24,10.0,1988-08-20,22.0,5 ft 9 in ,165,Mechanic,Yes,murder robbery ,white male,1.0,0,0,0,0,0
+381,394,Griffith,Michael,999176,56,2007-06-06,white,Harris,no statement,2050-07-11,12.0,1994-10-10,44.0,5 ft 11 in ,205,Cleaning Service,Yes,murder robbery ,white female,1.0,0,0,0,0,0
+382,395,Rodriguez,Lionell,999002,36,2007-06-20,hispanic,Harris,statement given,1971-02-01,,1990-09-05,19.0,"5' 9 ",170,Laborer,Yes,murder robbery ,Asian female,1.0,1,1,0,0,1
+383,396,Reyes,Gilberto,999352,33,2007-06-21,hispanic,Bailey,statement given,1973-09-19,11.0,1998-03-12,24.0,"5' 5  ",129,Laborer,Yes,murder abduction ,hispanic  female,1.0,0,0,0,0,0
+384,397,Knight,Patrick,999072,39,2007-06-26,white,Randall,statement given,2068-01-12,9.0,1991-08-27,23.0,"5' 9 ",238,Laborer,No,murder abduction ,"white female, white male",2.0,0,1,1,0,1
+385,398,Johnson,Lonnie,999135,44,2007-07-24,black,Harris,statement given,2063-03-19,11.0,1990-08-15,27.0,"5' 9 ",219,Construction,No,murder ,2 males (unknown),2.0,0,0,0,0,0
+386,399,Parr,Kenneth,999312,27,2007-08-15,black,Matagorda,statement given,1980-01-16,11.0,1998-01-21,18.0,"5' 6 ",164,Laborer,No,murder robbery rape ,white  female,1.0,0,0,0,0,0
+387,400,Conner,Johnny,999324,32,2007-08-22,black,Harris,statement given,1975-04-27,10.0,1998-05-17,23.0,"5' 7 ",157,Laborer,No,murder robbery ,Unknown  female,1.0,1,1,0,0,0
+388,401,Mosley,Daroyce,999171,32,2007-08-28,black,Gregg,statement given,1974-10-16,12.0,1994-07-21,19.0,"6' 2  ",211,laborer,No,murder robbery ,"white female, 3 white males",4.0,0,0,0,0,0
+389,402,Amador,John,999160,32,2007-08-29,hispanic,Bexar,statement given,1975-05-09,11.0,1994-01-04,18.0,"5' 5 ",150,Mechanic,Yes,murder ,white male,1.0,1,1,0,0,0
+390,403,Roach,Tony,999323,30,2007-09-05,white,Potter,statement given,1976-11-09,10.0,1998-06-08,21.0,"5' 8 ",169,Laborer,Yes,murder rape ,white  female ,1.0,1,1,1,0,0
+391,404,Kimmel,Clifford,999347,32,2007-09-20,white,Bexar,no statement,1975-07-18,8.0,1999-05-18,23.0,"5' 11 ",194,Laborer,Yes,murder ,"2  females, 1 male",3.0,0,0,0,0,0
+392,405,Richard,Michael,890,48,2007-09-25,black,Harris,statement given,2059-08-24,9.0,1986-08-18,26.0,"5' 8 ",142,Mechanic,Yes,murder rape ,Unkown female,1.0,0,1,0,0,0
+393,406,Chamberlain,Karl,999241,37,2008-06-11,white,Dallas,statement given,1970-06-20,12.0,1991-08-02,21.0,"5' 11  ",261,Chamberlain had been unemployed for 13 months prior to arrest. ,No,murder rape ,white  female  ,1.0,1,1,1,0,0
+394,407,Turner,Carlton,999321,29,2008-07-10,black,Dallas,statement given,1979-07-04,9.0,1998-08-08,19.0,"5' 7  ",184,Laborer ,No,murder ,black  male and female,2.0,1,0,0,0,0
+395,408,Sonnier,Derrick,999054,40,2008-07-23,black,Harris,no statement,2067-10-26,11.0,1991-09-16,23.0,"5' 10  ",156,Salesman,No,murder rape ,"black female, black male (underage)",2.0,0,0,0,0,0
+396,409,Davis,Larry,999316,40,2008-07-31,black,Potter,statement given,2067-10-09,9.0,1995-08-28,27.0,"5' 8  ",173,Laborer ,Yes,murder ,white  male  ,1.0,0,0,0,0,0
+397,410,Medellin,Jose,999134,33,2008-08-05,hispanic,Harris,statement given,1975-03-04,9.0,1993-06-24,18.0,,,laborer,No,murder rape ,2 white females (both underage),2.0,1,0,0,0,0
+398,411,Chi,Heliberto,999437,29,2008-08-07,hispanic,Tarrant,statement given,1978-12-28,11.0,2001-03-24,22.0,5 ft 7 in ,205,"construction,  drywall, laborer ",No,murder robbery ,white  male  ,1.0,0,1,0,0,0
+399,412,Dorsey,Leon,999359,32,2008-08-12,black,Dallas,statement given,1975-11-17,12.0,1994-04-04,18.0,5 ft 11 in ,174,"delivery  driver, laborer ",Yes,murder robbery ,two  white males  ,2.0,1,0,0,0,0
+400,413,Rodriguez,Michael,999413,40,2008-08-14,hispanic,Dallas,statement given,1962-10-29,12.0,2000-12-24,40.0,5 ft 7 in ,215,Laborer ,Yes,murder robbery ,white  male,1.0,1,1,0,0,0
+401,414,Murray,William,999313,39,2008-09-17,white,Kaufman,statement given,1969-02-13,7.0,1998-02-10,28.0,"5' 3  ",158,"Auto  Mechanic,Laborer",Yes,murder rape ,white  female,1.0,1,1,0,0,0
+402,415,Kelly,Alvin,999012,57,2008-10-14,white,Gregg,statement given,2051-03-14,11.0,1984-04-30,33.0,"5' 8 ",240,Heavy Equipment Operator,Yes,murder ,"white male, 2 white females",3.0,1,1,0,0,0
+403,416,Watts,Kevin,999456,27,2008-10-16,black,Bexar,statement given,1981-01-18,9.0,2002-03-01,21.0,"05'07  ",184,"Janitor,  Cook,Laborer ",No,murder rape abduction ,Asian/male; Asian/female; Asian/female ,3.0,1,1,0,0,0
+404,417,Ries,Joseph,999335,29,2008-10-21,white,Hopkins,statement given,1979-09-18,12.0,1999-02-22,19.0,"5' 7  ",135,Laborer ,No,murder ,white  male ,1.0,1,1,0,0,0
+405,418,Nenno,Eric,999188,45,2008-10-28,white,Harris,no statement,2061-04-13,12.0,1995-03-23,33.0,unknown,unknown,Salesman,No,murder rape ,white female (underage),1.0,0,0,0,0,0
+406,419,Wright,Gregory,999253,42,2008-10-30,white,Dallas,statement given,2065-11-01,11.0,1997-03-21,31.0,6-0 ,170,Laborer ,No,murder ,white  female ,1.0,0,1,1,0,0
+407,420,Taylor,Elkie,999112,46,2008-11-06,black,Tarrant,statement given,2061-12-14,5.0,1993-04-02,31.0,"5' 9 ",168,laborer,Yes,murder robbery ,black male,1.0,0,1,0,0,0
+408,421,"Whitaker, III ",George,999196,36,2008-11-12,black,Harris,statement given,1970-11-21,11.0,1994-06-15,23.0,unknown,unknown,mechanic,No,murder ,black female,1.0,1,1,0,0,0
+409,422,Manns,Denard,999405,42,2008-11-13,black,Bell,statement given,1965-12-22,12.0,1998-11-18,32.0,5 ft 9 in ,230,"barber,  laborer ",Yes,murder rape ,white  female,1.0,0,1,0,0,0
+410,423,Hudson,Robert,999353,45,2008-11-20,black,Dallas,statement given,2063-03-04,12.0,1999-05-07,36.0,05-Nov,229,Laborer ,Yes,murder ,black  female,1.0,1,1,0,0,0
+411,424,Moore,Curtis,999212,40,2009-01-14,black,Tarrant,statement given,2068-02-26,12.0,1995-11-30,27.0,05-Aug,167,Awaiting  Information ,Yes,,Awaiting  Information,1.0,0,0,0,0,0
+412,425,Moore,Frank,999210,49,2009-01-21,black,Bexar,statement given,2059-05-16,11.0,1994-01-21,34.0,5 ft 9 in ,140,Mechanic,Yes,murder ,2 black males,2.0,0,1,0,0,0
+413,426,Perkins,Reginald,999407,53,2009-01-22,black,Tarrant,statement given,1955-04-29,7.0,2000-12-04,45.0,6 ft 2 in ,190,"truck  driver, plumber, laborer ",Yes,murder ,black  female ,1.0,0,0,0,0,0
+414,427,Martinez,Virgil,999265,41,2009-01-28,hispanic,Brazoria,statement given,2067-12-12,11.0,1996-10-01,28.0,06-Mar,284,Security  Services ,No,murder ,Two  hispanic males and two hispanic females  ,4.0,0,0,0,0,0
+415,428,Ortiz,Ricardo,999320,46,2009-01-29,hispanic,El Paso ,statement given,2062-10-05,11.0,1997-08-18,34.0,"6' 2  ",209,Laborer ,Yes,murder ,hispanic  male,1.0,0,0,0,0,1
+416,429,Martinez,David,999173,36,2009-02-04,hispanic,Bexar,statement given,1972-09-05,9.0,1994-07-11,22.0,"5' 7 ",174,laborer,Yes,murder ,"hispanic female, hispanic male",2.0,1,0,0,0,0
+417,430,Scheanette,Dale,999440,35,2009-02-10,black,Tarrant,statement given,1973-05-07,12.0,1996-12-24,23.0,5 ft 9 in ,162,"machine  operator, warehouseman, forklift operator, laborer ",No,murder rape ,black  female ,1.0,0,0,0,0,0
+418,431,Johnson,Johnny,999197,51,2009-02-12,black,Harris,statement given,2057-08-02,10.0,1995-03-27,37.0,"5' 8 ",185,Forklift operator,Yes,murder rape ,Unkown female,1.0,0,1,0,0,0
+419,432,Pondexter,Willie,999111,34,2009-03-03,black,Red River,statement given,1974-03-05,11.0,1993-10-29,19.0,"6' 2  ",208,laborer,No,murder robbery ,white female,1.0,1,0,1,0,0
+420,433,Morris,Kenneth,999117,38,2009-03-04,black,Harris,statement given,1971-03-04,9.0,1991-05-01,20.0,"5' 10  ",168,Laborer,Yes,murder robbery ,white male,1.0,1,1,0,0,0
+421,434,Martinez,James,999404,34,2009-03-10,hispanic,Tarrant,statement given,1974-06-09,11.0,2000-09-21,26.0,5 ft 6 in ,144,"welder,  laborer ",No,murder ,white  male and white female  ,2.0,0,0,0,0,0
+422,435,Salazar,Luis,999285,38,2009-03-11,hispanic,Bexar,statement given,1970-08-31,11.0,1997-10-11,27.0,05-May,176,Unknown ,No,murder rape ,hispanic  female ,1.0,1,1,0,0,0
+423,436,Rosales,Michael,999274,35,2009-04-15,hispanic,Lubbock,statement given,1974-01-11,10.0,1997-06-04,23.0,05-May,163,Unknown ,No,murder burglary ,Unknown  female ,1.0,0,1,0,0,0
+424,437,Johnson,Derrick,999339,28,2009-04-30,black,Dallas,statement given,1980-09-20,9.0,1999-01-21,18.0,"5' 08  ",156,"Kitchen,  Laborer ",Yes,murder robbery ,black  female  ,1.0,0,0,0,0,0
+425,438,Riley,Michael,851,51,2009-05-19,black,Wood,statement given,2058-05-09,10.0,1986-02-01,27.0,"5' 7 ",183,Metal Worker,Yes,murder robbery ,white female,1.0,1,0,0,0,0
+426,439,Hankins,Terry,999415,34,2009-06-02,white,Tarrant,statement given,1974-10-10,9.0,2001-08-26,26.0,5 ft 7 in ,180,"auto  mechanic, laborer ",No,murder ,white  male and white female  ,2.0,1,1,0,0,0
+427,440,Moody,Stephen,999076,52,2009-09-16,white,Harris,statement given,2057-07-16,10.0,1991-10-19,34.0,6-0 ,199,Oilfield Worker,Yes,murder robbery ,Not indicated (male),1.0,0,0,0,0,0
+428,441,Coleman,Christopher,999239,37,2009-09-22,black,Harris,statement given,1971-12-28,11.0,1995-12-14,23.0,5 ft 7 in ,185,Laborer ,No,murder ,Three  hispanic males,3.0,0,0,0,0,0
+429,442,Blanton,Reginald,999395,28,2009-10-27,black,Bexar,statement given,1981-06-03,10.0,2000-04-13,18.0,6 ft 1 in ,201,Laborer ,No,murder ,hispanic  male,1.0,0,0,1,0,0
+430,443,Oliver,Khristian,999301,32,2009-11-05,white,Nacogdoches,statement given,1977-08-26,12.0,1998-03-17,20.0,"6' 1  ",150,Laborer ,No,murder ,white  male,1.0,1,1,0,0,0
+431,444,Valle,Yosvanis,999384,34,2009-11-10,hispanic,Harris,statement given,1975-09-07,8.0,1999-06-07,23.0,5 ft 7 in ,150,"construction,  carpentry, laborer ",Yes,murder robbery ,hispanic  male,1.0,1,1,0,0,0
+432,445,Simpson,Danielle,999370,30,2009-11-18,black,Anderson,statement given,1979-10-26,11.0,2000-01-26,20.0,5 ft 10 in ,151,"machinist,  laborer ",No,murder ,white  female,1.0,0,0,0,0,0
+433,446,Thompson,Robert,999276,34,2009-11-19,black,Harris,statement given,1975-04-01,10.0,1996-12-05,21.0,05-Aug,252,Unknown ,No,murder robbery ,Other  male,1.0,1,1,0,0,0
+434,447,Woods,Bobby,999270,44,2009-12-03,white,Llano,statement given,2065-10-11,7.0,1997-04-30,31.0,05-Jul,231,Unknown ,No,murder rape abduction ,white  female,1.0,0,0,0,0,0
+435,448,Mosley,Kenneth,999243,51,2010-01-07,black,Dallas,no statement,2058-09-07,12.0,1997-02-15,38.0,05-Oct,170,Laborer ,No,murder robbery ,white  male,1.0,0,0,0,0,0
+436,449,Johnson,Gary,911,59,2010-01-12,white,Walker,statement given,2050-10-17,8.0,1986-04-03,35.0,"5' 7 ",175,laborer,No,murder burglary ,2 white males,2.0,0,0,0,0,0
+437,450,Sigala,Michael,999397,32,2010-03-02,hispanic,Collin,statement given,1977-12-11,10.0,2000-08-22,22.0,5 ft 5 in ,213,Laborer ,No,murder robbery rape ,hispanic  male and hispanic female,2.0,1,1,0,0,0
+438,451,Maxwell,Joshua,999408,31,2010-03-11,white,Bexar,statement given,1978-05-17,10.0,2000-10-11,22.0,5 ft 8 in ,184,Laborer ,Yes,murder ,hispanic  male,1.0,1,0,0,0,0
+439,452,Alix,Franklin,999286,34,2010-03-30,black,Harris,statement given,1975-08-06,10.0,1998-01-02,23.0,05-Sep,188,Unknown ,No,murder rape abduction ,black  male,1.0,1,0,0,0,0
+440,453,Berkley,William,999422,31,2010-04-22,white,El Paso ,statement given,1979-01-16,10.0,2000-03-10,21.0,5 ft 11 in ,139,Laborer ,No,murder robbery rape abduction ,hispanic  female,1.0,0,0,0,0,0
+441,454,Bustamante,Samuel,999380,40,2010-04-27,hispanic,Fort Bend ,no statement,2069-12-11,10.0,1998-01-18,28.0,5 ft 7 in ,264,Laborer,Yes,murder ,hispanic  male  ,1.0,0,0,0,0,0
+442,455,Varga,Kevin,999368,41,2010-05-12,white,Hunt,statement given,2069-03-04,6.0,1998-09-08,29.0,5 ft 8 in ,203,"welder,  construction, laborer ",Yes,murder robbery ,unknown  adult male ,1.0,1,1,0,0,0
+443,456,Galloway,Billy,999349,41,2010-05-13,white,Hunt,statement given,1969-03-22,6.0,1998-09-08,29.0,"5' 11  ",175,Laborer ,Yes,,white  male  ,1.0,1,0,0,0,0
+444,457,Cannady,Rogelio,999245,37,2010-05-19,hispanic,Bee,statement given,1972-05-29,8.0,1993-10-10,21.0,05-Jun,150,Waiter ,Yes,murder ,hispanic  male  ,1.0,0,1,0,0,1
+445,458,Alba,John,999027,54,2010-05-25,hispanic,Collin,statement given,2065-06-26,10.0,1991-08-05,36.0,"5' 8 ",190,Construction,No,murder ,hispanic female,1.0,1,0,0,0,0
+446,459,Jones,George,999147,36,2010-06-02,black,Dallas,statement given,1974-04-10,11.0,1993-04-13,19.0,"5' 10  ",190,Hair Stylist,No,murder robbery ,black male,1.0,0,1,0,0,0
+447,460,Powell,David,612,59,2010-06-15,white,Travis,no statement,2051-01-13,16.0,1978-05-18,27.0,"5' 10  ",140,laborer,No,murder ,hispanic male,1.0,0,0,0,0,0
+448,461,Perry,Michael,999444,28,2010-07-01,white,Montgomery,statement given,1982-04-09,12.0,2001-10-24,19.0,5 ft 9 in ,132,Laborer ,No,murder robbery ,white  female,1.0,0,0,0,0,0
+449,462,Jackson,Derrick,999263,42,2010-07-20,black,Harris,statement given,2068-06-13,11.0,1988-09-11,20.0,05-Jan,160,Cook ,Yes,murder robbery ,Two  unknown males  ,2.0,0,0,0,0,0
+450,463,Cantu,Peter,999093,35,2010-08-17,hispanic,Harris,statement given,1975-05-27,,1993-06-24,18.0,"5' 6  ",135,laborer,Yes,murder rape ,2 white females (both underage),2.0,0,0,0,0,0
+451,464,Wooten,Larry,999269,51,2010-10-21,black,Lamar,statement given,2058-12-10,,1996-09-03,37.0,05-May,183,Building  Maintenance ,Yes,murder robbery ,black male & black Woman,2.0,0,0,0,0,0
+452,465,Hall,Michael,999346,31,2011-02-15,white,Tarrant,statement given,1979-04-06,9.0,1998-02-15,18.0,"6' 2  ",218,Laborer ,No,murder abduction ,white  female  ,1.0,1,1,0,0,0
+453,466,Adams,Timothy,999448,42,2011-02-22,black,Harris,no statement,1968-08-22,12.0,2002-02-20,33.0,5 ft 6 in ,241,"clerk,laborer",No,murder ,black  male,1.0,0,0,0,0,0
+454,467,Kerr,Cary,999449,46,2011-05-03,white,Tarrant,statement given,2064-10-06,10.0,2001-07-12,36.0,5 ft 9 in ,219,"warehouseman,  maintenance mechanic, laborer ",No,murder rape ,white  female  ,1.0,1,1,1,0,0
+455,468,Bradford,Gayland,966,42,2011-06-01,black,Dallas,statement given,2068-07-18,8.0,1988-12-29,21.0,"5' 10  ",166,"Stocker, Laborer",Yes,murder robbery ,white male,1.0,0,0,0,0,1
+456,469,Taylor,Lee,999344,32,2011-06-16,white,Bowie,statement given,1979-01-08,9.0,1999-04-01,20.0,"5' 9  ",207,Laborer ,Yes,murder ,black  male ,1.0,1,1,1,0,0
+457,470,Mathis,Milton,999337,32,2011-06-21,black,Fort Bend,statement given,1979-03-11,8.0,1998-12-15,19.0,"6' 2  ",193,"cook,  mechanic's helper, laborer ",No,murder ,2  adult males,2.0,1,1,0,0,0
+458,471,Leal,Humberto,999162,38,2011-07-07,hispanic,Bexar,statement given,1973-01-06,12.0,1994-05-21,21.0,"5' 11  ",188,mechanic,No,murder rape ,hispanic female,1.0,1,1,0,0,0
+459,472,Stroman,Mark,999409,42,2011-07-20,white,Dallas,statement given,1969-10-13,8.0,2001-10-04,31.0,5 ft 9 in ,223,"baker,  laborer ",Yes,murder robbery ,Middle Eastern male,1.0,0,1,0,0,1
+460,473,Robles,Martin,999457,33,2011-08-10,hispanic,Nueces,statement given,1978-05-12,8.0,2002-11-12,24.0,"05'06  ",174,"Bus  Boy, Laborer ",Yes,murder robbery ,hispanic/male;  hispanic/male ,2.0,0,0,0,0,0
+461,474,Woods,Steven,999427,31,2011-09-13,white,Denton,statement given,1980-04-17,10.0,2001-05-02,21.0,5 ft 8 in ,152,"computer  technology, assembly worker, laborer ",No,murder ,"white  male, white female ",2.0,0,0,0,0,0
+462,475,Brewer,Lawrence,999327,44,2011-09-21,white,Brazos,statement given,1967-03-13,11.0,1998-06-07,31.0,"5' 6  ",180,Laborer ,Yes,murder ,black  male  ,1.0,0,0,0,0,0
+463,476,Garcia,Frank,999418,39,2011-10-27,hispanic,Bexar,statement given,1972-10-21,12.0,2001-03-29,28.0,5 ft 6 in ,169,"auto  body painter, truck driver, auto mechanic, laborer ",No,murder ,"hispanic  male, hispanic female  ",2.0,0,1,0,0,0
+464,477,Esparza,Guadalupe,999385,46,2011-11-16,hispanic,Bexar,statement given,1964-11-21,10.0,1999-06-30,34.0,5 ft 4 in ,193,"bricklayer,  cook, laborer ",Yes,murder rape abduction ,hispanic  female,1.0,1,1,0,0,0
+465,478,Hernandez,Rodrigo,999474,38,2012-01-26,hispanic,Bexar,statement given,1973-06-27,10.0,1994-02-19,20.0,"5' 07  ",202,"Roofer,  Stocker, & Laborer ",No,murder rape abduction ,white  female  ,1.0,0,1,0,0,0
+466,479,Rivas,George,999394,41,2012-02-29,hispanic,Dallas,statement given,1970-05-06,12.0,2000-12-24,30.0,5 ft 10 in ,214,"clerk,  cook, laborer ",Yes,murder robbery ,white  male ,1.0,1,1,0,0,1
+467,480,Thurmond,Keith,999435,52,2012-03-07,white,Montgomery,statement given,1959-10-31,9.0,2001-09-25,41.0,5 ft 7 in ,220,"master  mechanic, air conditioning technician, laborer ",No,murder ,"white  male, white female ",2.0,0,1,1,0,0
+468,481,Hernandez,Jesse,999425,47,2012-03-28,hispanic,Dallas,statement given,2064-06-08,10.0,2001-04-11,36.0,5 ft 3 in ,145,Laborer ,Yes,,"hispanic  male, hispanic female  ",2.0,0,1,0,0,0
+469,482,Adams,Beunka,999486,29,2012-04-26,black,Cherokee,statement given,1982-12-10,10.0,2002-09-02,19.0,"5' 06  ",179,Laborer ,No,murder robbery rape ,white  male and Two white females  ,3.0,1,0,0,0,0
+470,483,Hearn,Yokamon,999292,33,2012-07-18,black,Dallas,statement given,1978-11-06,10.0,1998-03-26,19.0,05-Aug,184,Unknown ,No,murder ,white  male  ,1.0,0,0,0,0,0
+471,484,Wilson,Marvin,999098,54,2012-08-07,black,Jefferson,statement given,2058-01-05,11.0,1992-11-10,36.0,"5' 9  ",218,Construction,Yes,murder abduction ,black male,1.0,0,1,0,0,0
+472,485,Harris,Robert,999364,40,2012-09-20,black,Dallas,statement given,1972-02-28,9.0,2000-03-20,28.0,6 ft 0 in ,182,Laborer ,Yes,murder ,Unknown,1.0,0,1,0,0,0
+473,486,Foster,Cleve,999470,48,2012-09-25,white,Tarrant,statement given,1963-10-24,12.0,2002-02-14,38.0,"5' 10  ",260,"oil  field worker, construction, laborer ",No,murder rape ,black/female  ,1.0,1,1,0,0,0
+474,487,Green,Jonathan,999421,44,2012-10-10,black,Montgomery,statement given,1967-12-23,11.0,2000-06-21,32.0,5 ft 11 in ,288,Laborer ,No,murder rape abduction ,white  female  ,1.0,0,0,1,0,0
+475,488,Hines,Bobby,999025,40,2012-10-24,white,Dallas,statement given,1972-07-07,9.0,1991-10-20,19.0,"5' 7 ",149,laborer,Yes,murder robbery ,white female,1.0,1,1,0,0,0
+476,489,"Roberts, Jr.",Donnie,999487,41,2012-10-31,white,Polk,statement given,1971-02-09,11.0,2003-10-15,32.0,"6' 01  ",223,Builder/Laborer ,Yes,murder robbery ,white  female,1.0,1,1,0,0,0
+477,490,Swain,Mario,999475,33,2012-11-08,black,Gregg,statement given,1979-02-28,12.0,2002-12-27,23.0,"5' 07  ",139,Laborer ,No,murder robbery burglary ,white  female,1.0,0,0,0,0,0
+478,491,Hernandez,Ramon,999431,41,2012-11-14,hispanic,Bexar,statement given,1971-11-08,9.0,2001-03-31,29.0,5 ft 9 in ,163,"construction,  food service, laborer ",Yes,murder robbery rape abduction ,hispanic  female  ,1.0,1,0,0,0,0
+479,492,Hughes,Preston,939,46,2012-11-15,black,Harris,statement given,2065-12-24,12.0,1988-09-26,22.0,"5' 11  ",150,warehouse worker,Yes,murder rape ,black female & black male (both children),2.0,0,0,1,0,0
+480,493,Blue,Carl,999151,48,2013-02-21,black,Brazos,statement given,2065-01-09,8.0,1994-08-19,30.0,,,laborer,No,murder ,black female,1.0,1,1,0,0,0
+481,494,Lewis,Ricky,999097,50,2013-04-09,black,Smith,statement given,2066-07-21,9.0,1990-09-17,28.0,"5' 3  ",146 lbs,laborer,Yes,murder rape ,white male,1.0,1,1,0,0,0
+482,495,Threadgill,Ronnie,999424,40,2013-04-16,black,Navarro,statement given,1973-02-20,9.0,2001-04-14,28.0,6 ft 00 in ,174,"barber,  cook, laborer ",Yes,murder ,black  male,1.0,0,0,0,0,0
+483,496,Cobb,Richard,999467,29,2013-04-26,white,Cherokee,statement given,1984-04-02,11.0,2002-09-02,18.0,"05'10  ",150,Laborer ,No,murder rape abduction ,1  white/male; 2 Unknown/females  ,3.0,0,0,0,0,0
+484,497,Parr,Carroll,999479,35,2013-05-07,black,McLennan,statement given,1977-10-18,3.0,2003-01-11,25.0,"5' 07  ",178,Laborer ,Yes,murder ,2 hispanic  males,2.0,0,1,0,0,0
+485,498,Williams,Jeffrey,999350,37,2013-05-15,black,Harris,statement given,1975-12-16,12.0,1999-05-19,23.0,5 feet 8 inches ,153 lbs. ,laborer ,Yes,murder robbery ,white  male,1.0,0,1,1,0,0
+486,499,Chester,Elroy,999280,43,2013-06-12,black,Jefferson,statement given,1969-06-14,12.0,1998-02-06,28.0,5 ft 10 in ,160,Laborer ,Yes,murder rape ,white  male  ,1.0,1,1,0,0,0
+487,500,McCarthy,Kimberly,999287,52,2013-06-26,black,Dallas,statement given,2061-05-11,12.0,1997-07-21,36.0,"5' 3  ",188,"occupational  therapist, waitress, home health care, laborer ",Yes,murder robbery ,white  female,1.0,0,1,0,0,0
+488,501,Quintanilla,John,999491,36,2013-07-16,hispanic,Victoria,statement given,1976-12-09,8.0,2002-11-24,25.0,"5' 08  ",153,Laborer ,Yes,murder ,white  male and white female,2.0,0,0,0,0,0
+489,502,Ross,Vaughn,999429,41,2013-07-18,black,Lubbock,statement given,1971-09-04,12.0,2001-01-31,29.0,5 ft 6 in ,150,"Architecture  Design, Clerical ",No,murder ,"black  female, white male",2.0,0,0,0,0,0
+490,503,Feldman,Douglas,999326,55,2013-07-31,white,Dallas,statement given,1958-06-19,12.0,1998-08-25,40.0,"5' 6  ",198,Laborer ,Yes,murder ,2  males ,2.0,0,0,0,0,0
+491,504,Garza,Robert,999466,30,2013-09-19,hispanic,Hidalgo,statement given,1982-05-15,8.0,2002-09-05,20.0,"05'07  ",147,Laborer ,Yes,murder ,hispanic/females  ,2.0,0,1,0,0,0
+492,505,Diaz,Arturo,999345,37,2013-09-26,hispanic,Hidalgo,statement given,1975-12-27,7.0,1999-04-03,23.0,"5' 8  ",200,Laborer ,Yes,murder robbery ,(Race  unknown) male  ,1.0,0,1,0,0,0
+493,506,Yowell,Michael,999334,43,2013-10-09,white ,Lubbock,statement given,1970-01-25,12.0,1998-05-09,28.0,"5' 9  ",188,"Steel  Fabrication, Cook, Laborer ",Yes,murder ,white  male and 2 white females ,3.0,0,0,0,0,0
+494,507,McCoskey,Jamie,999053,49,2013-11-12,white,Harris,statement given,2064-10-05,9.0,1991-11-13,28.0,"6'4 ",204 lbs,landscaper,Yes,murder ,white male,1.0,0,1,0,0,0
+495,508,Martin,Jerry,999552,43,2013-12-03,white,Leon,statement given,1970-03-28,10.0,2007-09-24,37.0,"5' 9  ",169 lbs. ,Construction,Yes,murder robbery ,white female,1.0,1,1,0,0,0
+496,509,Tamayo,Edgar,999130,46,2014-01-22,hispanic,Harris,statement given,2067-07-22,,1994-01-31,27.0,"5'8 ",175 lbs,laborer,Yes,murder robbery ,white male,1.0,0,0,0,0,0
+497,510,Basso,Suzanne,999329,59,2014-02-05,white,Harris,statement given,1954-05-15,12.0,1998-08-25,44.0,"5' 2",141,"office clerk,  seamstress, laborer",No,murder abduction ,white male,1.0,0,0,0,0,0
+498,511,Jasper,Ray,999341,33,2014-03-19,black,Bexar,statement given,1980-08-25,8.0,1998-11-29,19.0,"5' 9",139,Laborer ,No,murder robbery ,white  male ,1.0,0,1,0,0,0
+499,512,Doyle,Anthony,999478,29,2014-03-27,black,Dallas,statement given,1984-10-16,10.0,2003-01-16,18.0,"5' 07  ",182,Laborer ,No,murder ,Asian female,1.0,0,0,0,0,0
+500,513,Sells,Tommy,999367,49,2014-04-03,white,Val Verde,statement given,1964-06-28,8.0,1999-12-31,35.0,5 ft 9 in ,195,"barber,  mechanic, laborer ",Yes,murder rape ,white female,1.0,0,0,0,0,0
+501,514,Hernandez,Ramiro,999342,44,2014-04-09,hispanic,Kerr,statement given,2069-10-05,4.0,1997-10-15,28.0,"5' 2  ",190,Laborer ,Yes,murder rape ,white  male and hispanic female  ,2.0,1,1,0,0,0
+502,515,Villegas,Jose,999417,39,2014-04-16,hispanic,Nueces,statement given,1975-04-14,9.0,2001-01-22,27.0,5 ft 7 in ,186,"cook,  dishwasher, laborer ",No,murder ,hispanic  male and hispanic female ,2.0,1,0,0,0,1
+503,516,Trottie,Willie,999085,45,2014-09-10,black,Harris,statement given,2060-09-08,9.0,1993-05-03,23.0,5 ft 5 in ,147,Delivery Man,No,murder ,black male & black Woman,2.0,1,1,0,0,0
+504,517,Coleman,Lisa,999511,38,2014-09-17,black,Tarrant,statement given,1975-10-06,10.0,2004-07-26,28.0,5 ft 03 in ,189,Laborer ,Yes,,black male,1.0,0,1,0,0,0
+505,518,Paredes,Miguel,999400,32,2014-10-28,hispanic,Bexar,statement given,1982-08-08,8.0,2000-09-17,18.0,5 ft 6 in ,254,Laborer ,No,murder ,"hispanic  male, hispanic female, and white male  ",3.0,1,1,0,0,0
+506,519,Prieto,Arnold,999149,42,2015-01-21,hispanic,Bexar,statement given,1973-06-09,,1993-09-11,20.0,5 ft 9 in ,210,,No,murder robbery ,"2 hispanic females, 1 hispanic male",3.0,0,0,0,0,0
+507,520,Ladd,Robert,999237,57,2015-01-29,black,Smith,statement given,2057-03-19,10.0,1996-09-25,39.0,,232,Barber ,Yes,murder robbery ,white  female  ,1.0,1,0,0,0,0
+508,521,Newbury,Donald,999403,53,2015-02-04,white,Dallas,statement given,1962-05-18,6.0,2000-12-24,38.0,6 ft 0 in ,215,"carpenter,  electrician, laborer ",Yes,murder robbery ,white  male ,1.0,0,0,0,0,0
+509,522,Vasquez,Manuel,999336,46,2015-03-12,hispanic,Bexar,statement given,1968-06-16,8.0,1998-03-19,29.0,"5' 8  ",195,"welder,  carpenter, laborer ",Yes,murder robbery ,hispanic  female,1.0,0,1,0,0,0
+510,523,Sprouse,Kent,999471,42,2015-04-09,white,Ellis,statement given,1972-08-09,12.0,2002-10-06,30.0,"5' 10",222,"welder,  construction, laborer",No,murder ,"hispanic  male, white male",2.0,1,0,0,0,0
+511,524,Garza,Manuel,999434,34,2015-04-15,hispanic,Bexar,statement given,1980-08-08,10.0,2001-02-02,20.0,5 ft 10 in ,157,Laborer,No,murder ,hispanic  male,1.0,1,1,0,0,0
+512,525,Charles,Derrick,999451,32,2015-05-12,black,Harris,statement given,1982-09-06,11.0,2002-07-02,19.0,"05'09  ",179,Laborer,Yes,murder rape ,"black  male, black female, black female",3.0,0,0,0,0,0
+513,526,Bower,Lester,764,67,2015-06-03,white,Grayson,statement given,1947-11-20,16.0,1983-10-08,35.0,5 ft 11 in ,253 lbs,Chemical Salesman,No,murder ,4 white males,4.0,0,0,0,0,0
+514,527,Russeau,Gregory,999430,46,2015-06-18,black,Smith,statement given,2069-10-11,11.0,2001-05-30,31.0,5 ft 11 in,299,"barber,  kitchen, laborer",Yes,murder ,white  male,1.0,0,0,0,0,0
+515,528,Lopez,Daniel,999555,27,2015-08-12,hispanic,Nueces,statement given,1987-09-15,10.0,2009-03-11,21.0,"5' 7 ",140 lbs.,None ,No,murder ,white male,1.0,1,1,0,0,0
+516,529,Garcia ,Juan,999360,35,2015-10-06,hispanic ,Harris,statement given,1980-02-18,8.0,1998-09-17,18.0,5 ft 5 in ,183,"construction,  landscaping, laborer ",No,murder ,hispanic  male,1.0,1,0,0,0,1
+517,530,Escamilla,Licho,999432,33,2015-10-14,hispanic,Dallas,statement given,1982-07-03,8.0,2001-11-25,20.0,5 ft 6 in,156,laborer,No,murder ,white  male,1.0,0,1,0,0,0
