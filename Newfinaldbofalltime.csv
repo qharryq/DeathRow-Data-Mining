@@ -1,0 +1,520 @@
+A
+1 520 9",150,N/A,No,N/A,N/A,1,2,1,0,0,1
+2 521 8",137,,Yes,murder burglary rape ,white female,1.0,1,6,0,0,0
+3 522
+4 522
+5 523 given,2049-11-21,,1979-11-21,30.0,,,,Yes,murder ,white female,1.0,1,0,0,0,0
+6 524 ,white male,1.0,0,1,0,0,0
+7 525
+8 526 ,"hispanic female, hispanic male",2.0,2,0,0,0,0
+9 525
+10 527 statement,2042-03-02,9.0,1980-09-30,38.0,5 ft 3 in ,130,Welder ,Yes,murder robbery ,Unknown male ,1.0,0,0,0,0,0
+11 528 statement,2059-09-27,,1984-02-25,27.0,,,,Yes,murder ,Unknown,1.0,0,0,0,0,0
+12 529 rape abduction ,Unknown,1.0,2,0,0,0,0
+13 525
+14 530 ,white female,1.0,0,0,0,0,0
+15 531 ,white male,1.0,0,0,0,0,0
+16 532 ,white female,1.0,0,0,0,0,0
+17 533 ft 3 in ,130,,Yes,murder rape ,white female,1.0,0,0,0,0,0
+18 534 statement,2049-05-14,11.0,1983-05-24,33.0,5ft 6 in,167,electrician,No,murder robbery ,Unknown,1.0,0,0,0,0,0
+19 535 ft 2 in ,184,Brickmason,Yes,murder rape ,Unknown,1.0,0,1,0,0,0
+20 536 ft 0 in ,175,electrician,Yes,murder rape ,white female,1.0,0,0,0,0,0
+21 537 ft 8 in ,156,cook,No,murder ,Unknown,1.0,0,0,0,0,0
+22 538 given,2062-03-15,9.0,1983-02-04,21.0,5 ft 8 in ,185,electrician,Yes,murder robbery ,white female,1.0,0,0,0,0,0
+23 539 ft 6 in,141,delivery driver,Yes,murder ,black male,1.0,0,0,0,0,0
+24 540 ft 9 in ,185,Meat trimmer,No,murder robbery ,White male,1.0,0,0,1,0,0
+25 541 ft 10 in,158,Retail merchant,No,murder robbery ,White male,1.0,0,0,0,0,0
+26 542 ft 10 in,201,675borer,Yes,murder robbery ,white male,1.0,2,0,0,0,0
+27 543 ft 10 in,230,truck driver,Yes,murder robbery ,white male,1.0,0,0,0,0,0
+28 544 ft 2 in,140,,Yes,murder abduction ,,,0,0,0,0,0
+29 545
+30 546 given,2049-03-05,10.0,1974-03-19,25.0,5 ft 9 in ,150,musician,Yes,murder abduction ,Unknown,1.0,0,0,0,0,0
+31 547 ft 5 in,130,cement mason,No,murder ,white male,1.0,0,0,0,0,0
+32 525
+33 548 ft 11 in ,152,675borer,No,murder rape ,Unknown,1.0,0,0,0,0,0
+34 549 ft 8 in ,145,construction,Yes,murder ,"white male, white female",2.0,0,2,0,0,0
+35 550 ft 8 in ,133,welder,Yes,murder ,white female,1.0,1,0,0,0,0
+36 551 ft 11 in ,167,truck driver,No,murder robbery ,white female,1.0,0,0,0,0,0
+37 552 ft 1 in ,185,welder,Yes,murder robbery ,white female,1.0,0,0,0,0,0
+38 553 given,2065-02-03,11.0,1984-12-24,19.0,5 ft 6 in,128,675borer,No,murder rape ,hispanic female,1.0,0,0,0,0,0
+39 554 522
+40 525
+41 555 ft 10 in,150,Painter,Yes,murder ,white male,1.0,0,0,0,0,0
+42 525
+43 525
+44 556 ft 9 in ,147,electrician,No,murder robbery ,hispanic male,1.0,0,0,0,0,0
+45 557 ft 3 in,125,675borer,No,murder ,Unknown,1.0,0,0,0,0,0
+46 558 ft 7 in ,148,mechanic,Yes,murder ,Unknown,1.0,0,0,0,0,0
+47 559 ft 11 in ,188,roofer,No,murder ,hispanic male,1.0,0,1,5,0,0
+48 560 ft 10 in,165,millwright,No,murder robbery ,white female,1.0,0,0,0,0,0
+49 561 ft 9 in ,146,Insurance investor,No,murder ,white female,1.0,0,1,1,0,0
+50 562 ft 5 in,144,675borer,No,murder ,white male,1.0,0,0,0,0,0
+51 563 ft 10 in,156,675borer,No,murder ,white male,1.0,0,2,0,0,0
+52 564 10 in,152,mechanic,Yes,murder ,white male,1.0,0,0,0,0,0
+53 565 ft 11 in ,190,Dispatcher,No,murder robbery ,white female,1.0,0,0,0,0,0
+54 566 ft 2 in ,186,675borer,Yes,murder abduction ,white female,1.0,0,0,0,0,0
+55 567 10",142,675borer ,No,murder robbery ,hispanic male,1.0,0,0,0,0,0
+56 568 ft 11 in ,191,675borer,No,murder ,"hispanic male, hispanic male, hispanic male, white male",4.0,3,0,0,0,0
+57 569 ft 9 in ,185,truck driver,No,murder rape ,white female,1.0,0,0,0,0,0
+58 570 ft 6 in,165,675borer,Yes,murder abduction ,Unknown,1.0,0,0,0,0,0
+59 571 ft 6 in,150,construction,Yes,murder abduction ,white male,1.0,0,2,0,0,0
+60 572 ft 7 in ,155,contractor,Yes,murder ,white female,1.0,1,5,1,0,0
+61 573 ft 8 in ,155,carpenter,Yes,murder ,Vietnamse male,1.0,2,2,0,0,0
+62 574 ft 8 in ,165,construction,Yes,murder abduction ,hispanic male,1.0,0,0,0,0,0
+63 575 ft 11 in ,200,675borer,Yes,murder abduction ,white male,1.0,0,0,0,0,0
+64 576 ft 4 in,180,electrician,Yes,murder ,Unkown,1.0,0,0,0,0,0
+65 577 ft 1 in ,160,carpenter,No,murder ,black male,1.0,0,0,0,0,0
+66 578 ft 11 in ,,675borer,No,murder rape ,white male,1.0,0,3,0,0,0
+67 579 ft 9 in ,161,construction,No,murder ,white male,1.0,0,0,0,0,0
+68 580 ft 5 in,140,carpenter,No,murder ,white male,1.0,0,0,1,0,0
+69 581 ft 5 in,155,welder,No,murder robbery ,white female,1.0,0,0,0,0,0
+70 582 ft 4 in,144,computer programmer,No,murder ,white male,1.0,0,0,0,0,0
+71 583 ft 5 in,130,675borer,No,murder robbery ,Unknown,1.0,0,0,0,0,0
+72 584 ft 7 in ,135,cashier,Yes,murder robbery ,Unknown,1.0,0,0,0,0,0
+73 585 given,2046-07-26,14.0,1981-04-04,35.0,5 ft 11 in ,188,Manager,Yes,murder ,Unknown,1.0,0,7,0,0,0
+74 586 ft 10 in,180,mechanic,Yes,murder ,unknown,1.0,0,0,0,0,0
+75 587 ft 5 in,131,mechanic,Yes,murder abduction ,white female,1.0,0,1,0,0,0
+76 588 ft 8 in ,165,Drywaller,No,murder ,unknown,1.0,0,2,0,0,0
+77 589 given,2061-08-05,7.0,1979-12-03,18.0,6 ft 1 in ,210,675borer,No,murder ,white male,1.0,0,2,0,0,0
+78 590 ft 0 in ,210,675borer,No,murder robbery ,unknown,1.0,0,1,0,0,0
+79 591 ft 2 in ,194,repairman,Yes,murder abduction ,hispanic female,1.0,0,0,0,0,0
+80 592 ft 11 in ,157,welder,Yes,murder ,Unknown,1.0,1,1,0,0,0
+81 593 ft 10 in,140,Meat trimmer,Yes,murder rape ,white female,1.0,0,0,0,0,0
+82 594 ft 1 in ,185,Roughneck,Yes,murder robbery ,Unknown,1.0,0,0,0,0,0
+83 595 ft 6 in,135,675borer,Yes,murder ,unknown,1.0,0,0,0,0,0
+84 596 ft 4 in,,Unemployed,Yes,murder robbery ,white female,1.0,0,0,0,0,0
+85 597 ft 8 in ,157,mechanic,Yes,murder ,white male,1.0,2,0,0,0,0
+86 598 ft 10 in,170,construction,Yes,murder rape ,Unknown,1.0,0,0,0,0,0
+87 599 ft 7 in ,209,fork lift operator,Yes,murder abduction ,black female,1.0,0,0,0,0,0
+88 600 ft 8 in ,150,iron worker,No,murder ,black male,1.0,0,0,1,0,0
+89 601 ft 10 in,160,electrician,Yes,murder ,white female,1.0,0,0,0,0,0
+90 602 ft 0 in ,150,mechanic,Yes,murder ,Unknown,1.0,0,0,0,0,0
+91 603 ft 5 in,154,shrimper,No,murder ,"Vietnamse male, Vietnamse male",2.0,0,9,0,0,0
+92 604 ft 5 in,140,675borer,Yes,murder rape ,Unknown,1.0,0,0,0,0,0
+93 605 ft 11 in ,160,675borer,Yes,murder ,"white male, white male, white male",3.0,0,0,0,0,0
+94 606 ft 10 in,182,mechanic,Yes,murder ,Unknown,1.0,0,0,0,0,0
+95 607 ft 2 in ,190,machinist,No,murder ,"black female, black female",2.0,0,0,0,0,0
+96 608 given,2060-11-17,11.0,1992-10-19,31.0,5ft 10 in,253,contractor,Yes,murder ,white male,1.0,2,0,0,0,0
+97 609 given,2055-12-05,12.0,1987-10-05,31.0,5 ft 8 in,153,electrician,Yes,murder abduction ,Unknown,1.0,0,1,1,0,0
+98 610 ft 8 in,168,carpenter,Yes,murder rape ,white female,1.0,0,0,0,0,0
+99 611 ft 4 in,235,stockbroker,No,murder robbery rape ,white female,1.0,2,0,0,0,0
+100 612 ft 9 in ,176,roofer,Yes,murder ,"white female, white female, white male",3.0,0,0,0,0,0
+101 613 ft 11 in ,150,675borer,Yes,murder rape ,white female,1.0,0,0,0,0,0
+102 614 ft 2 in ,157,mechanic,Yes,murder ,white male,1.0,1,2,0,0,0
+103 615 ft 5 in,192,truck driver,No,murder rape ,white female,1.0,0,0,0,0,0
+104 616 ft 9 in ,174,construction,Yes,murder robbery ,"white male, white female",2.0,0,0,0,0,0
+105 617 ft 6 in,150,dishwasher,Yes,murder ,white female,1.0,0,0,0,0,0
+106 618 ft 3 in,225,675borer,Yes,murder robbery ,white male,1.0,0,0,0,0,0
+107 619 ft 8 in,165,Painter,Yes,,,,3,8,0,0,0
+108 620 ft 11 in ,150,carpenter,Yes,murder ,Unknown,1.0,0,0,0,0,0
+109 523 given,2054-08-03,9.0,1977-07-31,22.0,6 ft 1 in ,190,675borer,Yes,murder rape ,white female,1.0,0,2,0,0,0
+110 621 ft 11 in ,190,cement finisher,No,murder ,Unknown,1.0,0,0,0,0,0
+111 622 ft 8 in,140,Manager,Yes,murder ,white female,1.0,3,1,0,0,0
+112 623 ft 9 in ,138,cook,Yes,murder ,"white female, white female",2.0,2,0,0,0,0
+113 624 ft 5 in,150,waiter,Yes,murder ,white male,1.0,2,9,0,0,0
+114 625 ft 11 in ,184,truck driver,No,murder rape ,,,2,0,0,0,0
+115 626 given,2067-03-10,11.0,1986-03-23,19.0,5 ft 2 in,158,janitor,No,murder ,white male,1.0,0,0,0,0,0
+116 627 ft 9 in ,166,cook,Yes,murder rape ,hispanic female,1.0,0,0,0,0,0
+117 628 ft 11 in ,186,Student,No,murder ,"white male, white female",2.0,1,1,0,0,0
+118 629 ft 11 in ,223,carpenter,No,murder robbery ,white male,1.0,0,0,0,0,0
+119 630 ft 2 in ,225,welder,Yes,murder abduction ,"white male, white female, white female",3.0,0,0,0,0,0
+120 631 ft 8 in,140,675borer,No,murder ,white male,1.0,0,1,0,0,1
+121 632 given,2061-12-12,8.0,1982-08-24,20.0,5 ft 10 in,139,student,No,murder ,Unknown,1.0,1,0,0,0,0
+122 633 ft 9 in ,156,roofer,No,murder rape ,"black male, black male, black female",3.0,0,0,0,0,1
+123 634 ft 1 in ,180,truck driver,No,murder robbery ,Unknown,1.0,0,2,0,0,0
+124 635 ft 0 in ,175,plumber,No,murder rape ,"white female, white female",2.0,0,0,0,0,0
+125 636 ft 9 in ,175,bricklayer,No,murder robbery ,white female,1.0,1,3,0,0,0
+126 637 ft 10 in,148,mechanic,Yes,murder robbery ,Unknown,1.0,5,0,0,0,0
+127 638 ft 8 in,170,radiator repair,No,murder rape ,white male,1.0,1,5,0,0,0
+128 639 ft 9 in ,169,plumber,Yes,murder ,"hispanic male, hispanic male, hispanic male, white male",4.0,2,0,1,0,0
+129 640 ft 10 in,225,landscaping,Yes,murder ,Unknown,1.0,0,1,0,0,0
+130 641 ft 11 in ,175,mechanic,Yes,murder robbery ,white female,1.0,0,5,0,0,0
+131 642 ft 11 in ,150,oilfield worker,Yes,murder rape abduction ,white female,1.0,3,4,0,0,0
+132 643 ft 8 in,,warehouseman,Yes,murder robbery ,white female,1.0,0,0,0,0,0
+133 644 ft 10 in,165,675borer,Yes,murder ,white male,1.0,0,0,0,0,0
+134 645 ft 3 in ,121,office worker,No,murder robbery ,"white male, white female",1.0,1,2,0,0,0
+135 646 ft 1 in ,215,675borer,No,murder ,"white female, white female, white male",3.0,5,2,0,0,0
+136 647 ft 6 in,170,mechanic,Yes,murder ,white female,1.0,1,0,0,0,0
+137 648 ft 1 in ,140,675borer,No,murder ,white female,1.0,3,0,0,0,0
+138 649 ft 5 in,140,Barton,No,murder robbery ,white female,1.0,0,0,0,0,0
+139 650 ft 10 in,160,electrician,No,murder rape ,white female,1.0,0,0,0,0,0
+140 651 ft 0 in ,156,675borer,No,murder robbery ,unknown,1.0,2,0,0,0,0
+141 652 ft 4 in,152,675borer,No,murder rape ,white female,1.0,0,0,0,0,1
+142 653 2",232,"carpenter's  helper, bookkeeper",Yes,murder ,white  male,1.0,2,6,0,0,0
+143 654 ft 6 in,155,Brickmason,Yes,murder ,white male,1.0,2,5,0,0,0
+144 655 ft 8 in,155,675borer,No,murder ,"white female, white female, white female, white male",4.0,0,0,0,0,0
+145 656 given,2054-09-14,13.0,1988-05-20,33.0,5 ft 7 in ,185,Broker,Yes,murder ,black male,1.0,0,1,0,0,0
+146 657 given,2062-11-11,10.0,1985-04-28,22.0,5 ft 8 in,131,construction,Yes,murder robbery ,white male,1.0,0,0,0,0,0
+147 658 ft 6 in,171,electrician,Yes,murder ,hispanic male,1.0,0,0,0,0,1
+148 659 ft 7 in ,208,food store clerk,Yes,murder ,"black male, white male",2.0,0,2,0,0,0
+149 660 ft 11 in ,202,electrician,Yes,murder ,"white female, white female",2.0,0,0,0,0,0
+150 661 ft 3 in,255,machine operator,Yes,murder abduction ,white female,1.0,0,0,0,0,0
+151 662 ft 9 in ,165,cabinet maker,Yes,,"white female, white female, white female",3.0,5,0,0,0,0
+152 663 ft 8 in,160,air conditioner repairman,No,murder burglary rape ,white female,1.0,0,0,0,0,0
+153 664 ft 8 in,145,welder,Yes,murder robbery ,hispanic male,1.0,0,1,0,0,0
+154 665 ft 10 in,175,landscaping,Yes,murder robbery ,,,6,4,0,0,0
+155 666 ft 0 in ,185,electrician,No,murder ,white male,1.0,0,1,0,0,0
+156 667 ft 10 in,165,675borer,Yes,murder ,Unknown,1.0,0,0,3,0,0
+157 668 ft 8 in,140,675borer,Yes,murder ,hispanic male,1.0,0,0,0,0,0
+158 669 ft 7 in ,140,roofer,No,murder ,"white female, Unknown",2.0,0,1,0,0,0
+159 670 ft 7 in ,155,construction,Yes,murder ,Unknown,1.0,0,0,0,0,0
+160 671 ft 1 in ,160,hotel housekeeper,Yes,murder robbery ,Unknown,1.0,0,0,0,0,0
+161 672 ft 8 in,160,Paint and body repairman,Yes,murder rape ,,,1,1,0,0,0
+162 673 ft 1 in ,172,mechanic,No,murder ,"white male, white male, white male",3.0,0,0,0,0,0
+163 674 0 in,180,675borer,No,murder robbery ,white  male,1.0,0,0,0,0,1
+164 675 Cruz,Jose,908,31,1999-05-04,hispanic,Nueces749 statement,2068-04-26,10.0,1987-06-01,19.0,5 ft 9 in ,139,mechanic,Yes,murder robbery ,hispanic male,1.0,0,0,0,0,0
+165 676 ft 1 in ,160,janitor,Yes,murder ,black female,1.0,0,0,0,0,0
+166 677 ft 1 in ,191,roofer,No,murder rape ,white female,1.0,0,0,0,0,0
+167 678 ft 7 in ,171,mechanic,Yes,murder ,Unknown,1.0,0,0,0,0,0
+168 679 ft 8 in,212,construction,Yes,murder ,white female,1.0,2,0,0,0,0
+169 680 ft 0 in ,212,coaching,Yes,murder ,white female,1.0,0,0,0,0,0
+170 681 ft 1 in ,214,cook,No,murder robbery ,white male,1.0,0,0,0,0,0
+171 682 ft 9 in ,148,janitor,No,murder ,white female,1.0,0,0,0,0,0
+172 683 ft 6 in,130,675borer,No,murder robbery ,white female,1.0,0,0,0,0,0
+173 684 ft 9 in ,258,Salesman,No,murder abduction ,white female,1.0,0,0,0,0,0
+174 685 statement,2062-07-25,12.0,1983-01-17,20.0,5 ft 10 in,165,Paint and body repairman,Yes,murder rape ,white female,1.0,0,0,0,0,0
+175 686 11 ",150,laborer,Yes,murder robbery ,Asian male,1.0,0,0,0,0,0
+176 687 11 ",153,Antique refinisher,Yes,murder rape ,female,1.0,1,1,0,0,1
+177 688 7 ",142,Roofer,Yes,murder robbery ,male,1.0,3,4,0,0,0
+178 689 8 ",246,Electrician,Yes,murder ,female,1.0,0,0,0,0,0
+179 690 0 ",204,Oil Field Operator,No,murder ,black male,1.0,2,2,0,0,0
+180 691 9 ",208,Telephone cable installer,Yes,murder rape abduction ,white female,1.0,0,0,0,0,0
+181 692 given,2068-06-07,,1988-06-25,20.0,"5' 8 ",178,,Yes,murder rape ,white female,1.0,0,4,0,0,0
+182 693 6",183,Nurse Aid,No,murder robbery ,"black male, black female",2.0,0,0,0,0,0
+183 694 10",145,laborer,Yes,murder robbery ,white male,1.0,1,0,0,0,0
+184 695 ",189,Construction,Yes,murder robbery ,white female,1.0,2,23,0,0,0
+185 696 9 ",181,Cable TV technician,No,murder ,3 white females,3.0,4,0,0,0,0
+186 697 10 ",197,Mechanic,No,murder robbery ,"2 white males , 1 female underage",3.0,0,0,2,0,0
+187 698 1  ",179,laborer,No,murder robbery ,white male,1.0,0,0,0,0,0
+188 699 given,2045-08-23,7.0,1975-02-26,30.0,"6' 0 ",190,Attendant,Yes,murder burglary ,white male,1.0,0,0,0,0,0
+189 700 given,2051-04-01,11.0,1991-05-30,40.0,"6' 2 ",210,Truck Driver,No,murder abduction ,2 white females,2.0,0,0,0,0,0
+190 546 given,2068-10-28,12.0,1991-07-02,22.0,"5' 10  ",200,Restaurant manager,Yes,murder abduction ,white female,1.0,0,0,0,0,0
+191 701 8 ",148,laborer,Yes,murder rape ,black female,1.0,0,0,0,0,0
+192 702 0 ",150,Carpenter,No,murder rape ,"3 white males, 2 white females",5.0,0,0,0,0,0
+193 703 given,1952-01-28,12.0,1976-04-04,24.0,"5' 10 ",165,"Farmer, 675borer",No,robbery ,white male,1.0,0,0,1,0,0
+194 704 0 ",172,laborer,Yes,murder robbery ,white female,1.0,0,0,0,0,0
+195 705 7 ",126,laborer,No,murder ,2 white males,2.0,1,5,0,0,0
+196 706 9 ",155,675borer,Yes,murder burglary ,male,1.0,3,1,0,0,0
+197 707 ",118,Cashier,No,murder ,white male,1.0,0,0,0,0,0
+198 708 given,2068-03-22,11.0,1989-11-29,21.0,"6' 2  ",171,Construction,Yes,murder robbery rape ,white female,1.0,0,0,0,0,0
+199 709 8 ",140,laborer,No,murder robbery ,Asian male,1.0,0,0,0,0,0
+200 710 10 ",204,Mechanic,No,murder rape ,white female,1.0,9,5,0,0,1
+201 711 7 ",120,Computer Technician,Yes,murder robbery abduction ,white female,1.0,4,2,0,0,1
+202 712 ",185,Painter,Yes,murder rape abduction ,white female,1.0,8,8,0,0,0
+203 713 ",141,Bartender,No,murder ,"1 white male, 1 white female",2.0,1,4,0,0,0
+204 714 9 ",170,Construction,Yes,murder ,white male,1.0,7,33,0,0,0
+205 715 9 ",194,Roofer,Yes,murder robbery ,male,1.0,0,1,0,0,0
+206 716 11 ",188,Clerical,No,murder abduction ,white female,1.0,1,2,0,0,0
+207 717 9 ",171,Correctional Officer,No,murder ,"5 black females, 1 black male underage",6.0,3,2,0,0,0
+208 718 1  ",217,Drywaller,No,murder ,2 white females,2.0,0,0,1,0,0
+209 719 6 ",155,Cement Finisher,Yes,murder robbery ,hispanic male,1.0,0,1,0,0,0
+210 720 ",130,Clerk,No,murder burglary rape ,white female,1.0,7,7,2,0,0
+211 721 10 ",155,laborer,No,murder robbery ,white male,1.0,1,0,7,0,0
+212 722 given,1971-09-05,10.0,1991-01-26,19.0,"5' 7 ",180,laborer,No,murder robbery ,white male,1.0,0,0,0,0,0
+213 723 6 ",199,Truck Driver,No,murder rape ,2 white females,2.0,3,4,4,0,0
+214 724 0 ",163,Auto body repair,No,murder robbery ,white male,1.0,0,11,0,0,0
+215 725 11 ",190,Electrician,No,murder burglary ,white male,1.0,0,0,0,0,0
+216 726 ",104,675borer,No,murder rape abduction ,white female,1.0,6,1,0,0,0
+217 727 6 ",162,Mechanic,Yes,murder robbery ,white female,1.0,0,0,0,0,0
+218 728 2 ",184,Construction,Yes,murder ,white female,1.0,0,0,1,0,0
+219 729 10  ",166,Nurse Aid,Yes,murder burglary ,2 white females,2.0,2,0,0,0,0
+220 730 1  ",173,Cook,Yes,murder ,"1 black male, 2 black females",3.0,3,2,0,0,0
+221 731 9 ",189,Mechanic,No,murder rape ,white female (underage),1.0,0,2,0,0,0
+222 732 1  ",205,Video Store Manager,No,murder ,white female,1.0,1,1,0,0,0
+223 733 7 ",165,675borer,No,murder rape abduction ,white  female  ,1.0,2,2,0,0,0
+224 734 1  ",180,Carpenter,Yes,murder robbery ,white male,1.0,1,1,0,0,0
+225 735 6 ",125,laborer,No,murder rape ,black female underage,1.0,0,0,0,0,0
+226 736 11 ",195,Bartender,No,murder rape abduction ,white female (underage),1.0,2,4,0,0,0
+227 737 7 ",175,Welder,Yes,murder ,white male,1.0,0,0,0,0,0
+228 738 given,2040-09-24,9.0,1989-11-14,49.0,"5' 8 ",230,Electrician,Yes,murder robbery ,white male,1.0,1,0,0,0,0
+229 739 ",119,Press Operator,No,murder rape ,hispanic female,1.0,3,0,0,0,0
+230 740 ",190,Carpenter,Yes,murder abduction ,white male,1.0,0,0,0,0,0
+231 741 10 ",204,Truck Driver,Yes,murder rape ,female,1.0,0,0,0,0,0
+232 742 ",175,Barber,Yes,murder robbery ,hispanic female,1.0,0,5,0,0,0
+233 743 10  ",155,Sales,No,murder ,2 white females,2.0,4,1,0,0,0
+234 744 10  ",156,Roofer,No,murder ,"1 white male, 1 white female",2.0,10,7,0,0,0
+235 745 9 ",151,laborer,Yes,murder robbery ,1 white male,1.0,0,7,0,0,0
+236 746 9 ",150,Welder,No,murder ,"2 white females, 1 white male (underage)",3.0,1,0,0,0,0
+237 747 10  ",170,laborer,Yes,murder robbery ,white male,1.0,2,4,0,0,0
+238 748 given,2061-07-29,10.0,1986-12-27,25.0,"5'5 ",165,Cook,Yes,murder ,2 white males (underage),2.0,6,7,0,0,1
+239 748 given,2053-08-12,7.0,1987-03-03,33.0,"6' 0 ",160,Painter,Yes,murder robbery ,white male,1.0,0,0,1,0,0
+240 748 given,2061-10-03,9.0,1993-08-02,31.0,"5' 10  ",177,laborer,No,murder robbery ,"white male, white female",2.0,0,0,0,0,0
+241 749 statement,2051-07-12,8.0,1982-11-10,31.0,"5' 11 ",131,Drywall Finished ,Yes,murder robbery ,hispanic male,1.0,0,0,0,0,0
+242 748 given,2067-12-27,10.0,1985-06-04,17.0,"5' 11 ",168,Carpenter,No,murder robbery ,2 males (unknown),2.0,4,7,0,0,0
+243 748 given,2060-01-01,10.0,1988-07-11,28.0,"6'4 ",237,Truck Driver,Yes,murder robbery ,white male,1.0,2,4,0,0,0
+244 748 given,1970-08-09,11.0,1988-09-02,18.0,"5' 8 ",145,laborer,No,murder robbery ,black male,1.0,1,0,0,0,0
+245 748 given,2064-07-26,9.0,1988-02-26,23.0,"6' 0 ",318,Electrician,Yes,murder robbery ,white male,1.0,1,0,0,0,0
+246 748 given,2063-09-16,8.0,1994-02-26,30.0,"5' 9 ",160,Painter,No,murder robbery ,white female,1.0,4,2,0,0,1
+247 748 given,2058-09-27,12.0,1983-07-15,25.0,"6' 1  ",230,Construction,Yes,murder robbery ,hispanic female,1.0,3,4,0,0,0
+248 748 given,2060-03-05,7.0,1992-04-24,32.0,"5' 8 ",117,Farmer,Yes,murder ,"1 black female, 1 black male",2.0,0,0,0,0,0
+249 750 748 given,2053-06-17,10.0,1985-11-11,32.0,"6'4 ",196,Painter,No,murder ,white male,1.0,1,2,0,0,0
+250 748 given,2067-02-24,13.0,1986-11-29,19.0,"5' 11 ",220,Assistant Restaurant Manager,No,murder robbery ,white male,1.0,0,0,0,0,0
+251 748 given,1972-12-27,9.0,1993-08-31,20.0,"6' 0 ",210,laborer,No,murder ,2 black males,2.0,0,0,0,0,0
+252 751 748 given,2062-03-08,10.0,1993-08-22,31.0,"5' 10 ",189,"Shipping  & Receiving, 675borer",Yes,murder ,hispanic  female,1.0,2,1,0,0,0
+253 748 given,2058-07-04,12.0,1981-03-28,22.0,"5' 7 ",145,laborer,No,murder robbery ,white male,1.0,2,0,0,0,0
+254 749 statement,2055-01-15,11.0,1989-07-10,34.0,"5' 9 ",140,Iron Worker,No,murder robbery ,white female,1.0,0,0,0,0,0
+255 748 given,2049-11-18,7.0,1985-03-07,35.0,"5' 8 ",181,Musician,Yes,murder ,hispanic male,1.0,0,1,0,0,0
+256 752 748 given,1974-04-21,11.0,1993-09-09,19.0,"5'5 ",140,Factory worker,No,murder rape ,white female (underage),1.0,9,3,0,0,0
+257 748 given,2069-08-23,11.0,1993-10-26,24.0,"5' 8 ",180,laborer,No,murder ,white male (underage),1.0,0,2,0,0,0
+258 748 given,1972-11-20,11.0,1993-07-15,21.0,"5' 6 ",174,Direct Care Technician,No,murder robbery ,white male,1.0,2,1,0,0,0
+259 748 given,1976-08-05,12.0,1994-04-19,17.0,,,laborer,No,murder robbery ,white male,1.0,5,0,0,0,0
+260 753 748 given,2066-12-30,14.0,1994-09-28,27.0,"5' 9 ",200,Receiving Clerk,No,murder robbery ,white male,1.0,1,0,0,0,0
+261 754 10 ",170,Nurse Aid,No,murder robbery ,white male,1.0,0,0,0,0,0
+262 755 11 ",176,Sales,No,murder ,"3 white females, 2 white males",5.0,0,0,1,0,0
+263 756 9 ",191,Cook,Yes,murder rape ,black female,1.0,0,4,0,0,0
+264 757 9 ",180,Gardener,Yes,murder robbery ,white female,1.0,0,0,0,0,0
+265 758 robbery ,white male,1.0,1,0,0,0,0
+266 759 7 ",121,Food Service,No,murder robbery ,hispanic male,1.0,8,4,0,0,0
+267 760 10 ",165,Maintenance worker,Yes,murder rape ,white female underage,1.0,1,0,0,0,0
+268 761 2  ",174,675borer,No,murder burglary ,3 black females (underage),3.0,6,1,0,0,1
+269 762 9 ",235,Welder,Yes,murder burglary rape ,"black male, black female",2.0,2,0,0,0,0
+270 763 11 ",154,675ndscaping,Yes,murder burglary rape ,white female,1.0,0,0,0,0,0
+271 764 9 ",173,Cashier,No,murder robbery ,white female,1.0,6,16,0,0,0
+272 765 7 ",176,,No,murder ,2 white females (underage),2.0,1,6,0,0,0
+273 766 2  ",200,675ndscaping,Yes,murder robbery ,black male,1.0,1,2,0,0,0
+274 767 8 ",160,Electrician,No,murder rape abduction ,white female,1.0,0,0,0,0,0
+275 768 10  ",190,laborer,No,murder ,white male,1.0,0,0,0,0,0
+276 769 8 ",148,Engineer,Yes,murder ,2 white females,2.0,2,5,0,0,0
+277 770 10  ",190,Carpenter,Yes,murder ,"white female, hispanic male",2.0,0,0,0,0,0
+278 771 11 ",170,Carpenter,Yes,murder ,"white male, white female",2.0,0,0,0,0,0
+279 772 2  ",165,Sculptor,No,murder robbery ,"1 white male, 2 white females",3.0,3,0,0,0,0
+280 773 11 ",155,675borer ,Yes,murder ,hispanic  female,1.0,0,0,0,0,0
+281 774 11 ",165,Construction,Yes,murder robbery ,white female,1.0,0,1,0,0,0
+282 775 7 ",152,laborer,No,murder robbery ,hispanic male,1.0,3,3,0,0,0
+283 776 6  ",126,Machinist,No,murder ,2 white females,2.0,3,2,0,0,0
+284 777 8 ",166,Electrician,Yes,murder burglary ,white male,1.0,0,0,0,0,0
+285 778 11 ",160,Carpenter,Yes,murder rape ,hispanic female,1.0,0,0,0,0,0
+286 Jr.",Henry,999165,28,2003-02-06,black,Smith748 given,1974-07-29,10.0,1993-11-30,19.0,"5' 7 ",145,Cook,No,murder abduction ,hispanic male,1.0,2,0,2,0,0
+287 780 0  ",208,675borer,Yes,murder ,black  female,1.0,6,7,1,0,0
+288 781 6 ",148,,Yes,murder robbery ,White male,1.0,1,0,0,0,0
+289 782 9  ",180,675borer,Yes,murder robbery ,Unknown  male,1.0,6,5,0,0,0
+290 783 6  ",141,laborer,Yes,murder rape ,white female,1.0,0,1,0,0,0
+291 784 8 ",143,Painter,Yes,murder robbery ,hispanic male,1.0,2,2,0,0,0
+292 785 1  ",243,Electrician,Yes,murder robbery rape ,white female,1.0,0,0,0,0,0
+293 786 2 ",138,laborer,Yes,murder ,white male (underage),1.0,0,2,0,0,0
+294 787 2  ",160,Cook,Yes,murder burglary ,white male,1.0,0,0,0,0,0
+295 788 11 ",208,Security Officer,No,murder ,white male (underage),1.0,2,6,0,0,0
+296 Sr.",Christopher,999277,43,2003-07-09,black,Bell749 statement,2059-08-02,12.0,1998-02-07,38.0,"6' 0 ",240,Unknown,No,murder ,black  female,1.0,0,0,0,0,0
+297 790 8 ",160,laborer,No,murder robbery ,white male,1.0,0,0,0,0,0
+298 791 0  ",165,laborer,Yes,murder ,"white female, 2 white males (underage)",3.0,0,3,0,0,0
+299 792 9  ",198,675borer,Yes,murder ,white  female and black female,2.0,3,0,0,0,0
+300 Patricio749 statement,2062-09-26,14.0,1993-09-05,30.0,"5' 8 ",184,Sales,No,murder ,2 white females,2.0,0,0,0,0,0
+301 794 1  ",170,Contractor,No,murder ,"white male, white female",2.0,0,0,1,0,0
+302 795 8 ",185,Mechanic,Yes,murder robbery ,white female,1.0,0,3,0,0,0
+303 796 9  ",288,"cook,  carpenter, laborer",No,murder rape abduction ,white  female,1.0,0,0,0,0,0
+304 797 7 ",151,Delivery man,No,murder robbery ,white female,1.0,1,7,0,0,0
+305 798 10 ",135,Tankerman,Yes,murder ,white male,1.0,3,3,0,0,1
+306 799 7 ",191,Salesman,Yes,murder robbery ,white male,1.0,4,0,0,0,0
+307 800 10 ",206,Cook,Yes,murder ,3 black females (underage),3.0,0,1,0,0,0
+308 801 8 ",139,Bull Rider,No,murder ,2 white females,2.0,0,0,0,0,0
+309 802 9 ",177,Mechanic,No,murder ,3 white females (underage),3.0,0,1,1,0,0
+310 803 6  ",147,675borer ,Yes,murder robbery ,white  male,1.0,0,1,0,0,0
+311 804 10  ",,,No,murder ,"white male, white female",2.0,0,0,0,0,0
+312 805 10  ",160,Brick 675yer,Yes,murder abduction ,white male,1.0,0,2,0,0,0
+313 806 7 ",130,laborer,No,murder ,2 white females,2.0,3,0,0,0,0
+314 902",James,870,41,2004-08-26,black,Tarrant748 given,2062-11-14,12.0,1985-02-04,22.0,"6' 2  ",153,Furniture builder,No,murder robbery ,white male,1.0,2,0,0,0,0
+315 808 2  ",163,Restaurant workers,No,murder robbery ,hispanic male,1.0,3,2,0,0,0
+316 809 7 ",154,675borer,No,murder robbery ,"Unknown male, unknown female",2.0,2,1,0,0,0
+317 810 7 ",190,Construction,Yes,murder robbery ,white male,1.0,0,1,0,0,0
+318 811 8 ",190,Baker,Yes,murder robbery abduction ,hispanic male,1.0,4,0,0,0,0
+319 812 10  ",145,Welder,Yes,murder robbery ,unknown,1.0,1,0,0,0,0
+320 813 robbery ,unknown male,1.0,2,0,0,0,0
+321 814 9 ",164,laborer,Yes,murder robbery ,unknown male,1.0,0,0,0,0,0
+322 815 11  ",175,Roughneck,Yes,murder abduction ,white  female  ,1.0,1,0,0,0,0
+323 816 robbery abduction ,white male,1.0,0,0,0,0,0
+324 817 7  ",201,Warehouse  Worker,Yes,murder robbery ,hispanic  male,1.0,0,0,0,0,0
+325 818 9 ",140,Mover,No,murder robbery ,white male,1.0,1,0,0,0,0
+326 819 9  ",131,"carpenter,  laborer",Yes,murder ,hispanic  male,1.0,4,1,0,0,0
+327 820 1  ",163,Student,No,murder robbery abduction ,white male,1.0,5,5,0,0,0
+328 821 11  ",160,Salesman,Yes,murder rape ,4 white females (underage),4.0,0,0,0,0,0
+329 822 9 ",183,Auto body repair,No,murder rape ,white female,1.0,4,2,0,0,0
+330 823 10  ",215,Machinist,Yes,murder robbery abduction ,hispanic male,1.0,0,1,0,0,0
+331 824 8 ",229,"Cook,  675borer",Yes,murder robbery ,white  male,1.0,4,1,0,0,0
+332 825 8 ",162,Food Service,Yes,murder robbery ,black female,1.0,0,1,0,0,1
+333 826 2  ",175,Mechanic,No,murder robbery ,hispanic male,1.0,1,0,0,0,0
+334 827 1  ",227,fast  food,Yes,murder rape ,white  female,1.0,0,0,0,0,0
+335 828 10  ",224,Unknown ,No,murder rape ,white  female,1.0,0,0,0,0,0
+336 829 1  ",176,Farm worker,No,murder robbery abduction ,"white male, white female",2.0,1,0,0,0,0
+337 830 10  ",171,Sales,No,murder burglary ,white female,1.0,0,0,0,0,0
+338 831 3  ",128,Accounting,Yes,murder ,"2 black males, 1 black female (underage)",3.0,0,0,0,0,0
+339 832 11 ",168,Food Service,Yes,murder burglary ,white male,1.0,0,0,0,0,0
+340 523 given,1963-06-19,12.0,1998-04-08,34.0,"5' 5 ",148,"carpenter,  laborer",No,murder ,hispanic  male,1.0,0,1,0,0,0
+341 833 9  ",205,Mechanic/675borer,No,rape abduction ,white  female ,1.0,4,5,0,0,0
+342 834 8 ",172,Maintenance,Yes,murder rape ,white female,1.0,2,1,0,0,0
+343 835 8 ",168,675borer,Yes,murder robbery ,Unknown  males,2.0,1,2,0,0,0
+344 836 9 ",250,Machinist,No,murder ,"2 hispanic males, 1 hispanic female, underage",3.0,0,0,0,0,0
+345 837 6 ",149,laborer,No,murder ,"2 hispanic males, 1 hispanic female",3.0,0,0,0,0,0
+346 Jr.",Jaime,999230,34,2006-01-31,hispanic,Harris748 given,1971-12-12,8.0,1994-11-05,22.0,"5' 6 ",115,Welder,Yes,murder ,2 hispanic males,2.0,0,2,0,0,0
+347 Jr.",Robert,999293,31,2006-02-08,white,Tarrant748 given,1974-10-05,11.0,1998-02-15,23.0,"6' 0 ",140,675borer,Yes,murder abduction ,white  female,1.0,5,1,0,0,0
+348 Jr.",Clyde,999088,32,2006-02-15,black,Harris748 given,1973-08-31,9.0,1992-02-06,18.0,"6' 0 ",191,Security Officer,No,murder ,2 males (unknown),2.0,0,0,0,0,0
+349 841 7  ",195,675borer,No,murder robbery ,black  female,1.0,0,0,0,0,0
+350 Jr.",Robert,999303,27,2006-03-22,hispanic,Lubbock748 given,1978-10-24,9.0,1997-04-23,18.0,"5' 7 ",190,675borer,No,,hispanic  female,1.0,1,1,0,0,0
+351 843 10  ",140,Roughneck,Yes,murder robbery ,black male,1.0,0,0,0,0,0
+352 844 8 ",265,Brick 675yer,No,murder rape abduction ,white female (underage),1.0,0,1,0,0,0
+353 845 11 ",220,"ranch helper, painter, laborer ",No,murder ,white  male and white female,2.0,1,1,0,0,0
+354 846 9 ",185,Brick 675yer,Yes,murder ,"hispanic female,hispanic male",2.0,0,0,0,0,0
+355 847 9 ",204,Roofer,Yes,murder robbery ,white female,1.0,3,4,0,0,0
+356 848 10  ",207,675borer,No,murder ,3  black males,3.0,0,1,0,0,5
+357 849 6  ",190,675borer,Yes,murder ,hispanic  female,1.0,3,4,0,0,1
+358 850 8 ",177,laborer,No,murder rape abduction ,2 white males,2.0,9,0,0,0,0
+359 851 1  ",159,Telemarketing,No,murder robbery ,black male,1.0,2,1,0,0,0
+360 852 2  ",149,Security Officer,No,murder rape abduction ,white female (underage),1.0,4,2,0,0,0
+361 Jr.",William,999255,41,2006-08-03,black,Bowie748 given,1964-12-20,12.0,1997-02-04,32.0,"6' 1  ",250,Correctional Officer,No,murder rape ,black  male,1.0,1,0,0,0,0
+362 854 10  ",224,Construction Worker ,Yes,murder robbery rape abduction ,white  female,1.0,1,5,0,0,0
+363 855 0  ",165,675borer,No,murder robbery abduction ,white  male,1.0,0,0,0,0,0
+364 856 10  ",176,Unknown,Yes,murder ,white  female and white male,2.0,0,0,2,0,0
+365 857 1  ",166,Truck Driver,No,murder robbery ,unknown male,1.0,1,2,0,0,0
+366 858 10  ",140,Contractor,No,murder ,"2 white males, 1 white female",3.0,0,0,0,0,0
+367 859 robbery ,2 males (unknown),2.0,0,0,0,0,0
+368 860 10  ",150,laborer,No,murder ,hispanic male,1.0,2,2,0,0,0
+369 861 3 ",172,675borer,No,murder ,hispanic  female and 3-year old hispanic male (underage,2.0,3,0,0,0,0
+370 862 ,145,Telemarketing,No,murder ,hispanic male,1.0,3,0,0,0,0
+371 863 9 ",150,675borer,Yes,murder ,Two  white females,2.0,0,0,0,0,0
+372 864 3  ",204,Gardener,Yes,murder ,Three  black females  ,3.0,0,1,0,0,0
+373 865 ft 10 in,163,675borer,Yes,murder ,one  white male and one white female,2.0,2,0,0,0,0
+374 866 0 ",155,Painter,No,murder robbery ,2 white males,2.0,0,0,0,0,0
+375 867 5 ",165,675borer,Yes,murder ,2  hispanic males,2.0,0,0,0,0,0
+376 given,2061-09-08,11.0,1980-10-13,19.0,,165,675borer,No,murder robbery ,unknown male,1.0,0,0,0,0,0
+377 869 0  ",180,Unknown ,No,murder robbery ,Asian  male,1.0,0,2,0,0,0
+378 870 6  ",142,None,Yes,murder ,hispanic  male  ,1.0,1,1,0,0,0
+379 871 11  ",235,AC/Heating Technician,No,murder abduction ,2 hispanic males,2.0,3,3,2,0,0
+380 872 9 ",157,Plumber��_��__��_��_s  Helper,Yes,murder robbery rape ,white  female,1.0,0,0,0,0,0
+381 873 3  ",171,Cook,No,murder robbery ,"white  male, white female",2.0,2,0,0,0,0
+382 874 ft 9 in ,165,Mechanic,Yes,murder robbery ,white male,1.0,0,0,0,0,0
+383 875 ft 11 in ,205,Cleaning Service,Yes,murder robbery ,white female,1.0,0,0,0,0,0
+384 876 9 ",170,675borer,Yes,murder robbery ,Asian female,1.0,4,2,0,0,1
+385 877 5  ",129,675borer,Yes,murder abduction ,hispanic  female,1.0,0,0,0,0,0
+386 878 9 ",238,675borer,No,murder abduction ,"white female, white male",2.0,0,3,2,0,1
+387 879 9 ",219,Construction,No,murder ,2 males (unknown),2.0,0,0,0,0,0
+388 880 6 ",164,675borer,No,murder robbery rape ,white  female,1.0,0,0,0,0,0
+389 881 7 ",157,675borer,No,murder robbery ,Unknown  female,1.0,4,5,0,0,0
+390 882 2  ",211,laborer,No,murder robbery ,"white female, 3 white males",4.0,0,0,0,0,0
+391 883 5 ",150,Mechanic,Yes,murder ,white male,1.0,2,4,0,0,0
+392 884 8 ",169,675borer,Yes,rape ,white  female ,1.0,6,15,1,0,0
+393 885 11 ",194,675borer,Yes,murder ,"2  females, 1 male",3.0,0,0,0,0,0
+394 886 8 ",142,Mechanic,Yes,murder rape ,Unkown female,1.0,0,1,0,0,0
+395 887 11  ",261,Chamberlain had been unemployed for 13 months prior to arrest. ,No,murder rape ,white  female  ,1.0,5,2,1,0,0
+396 888 7  ",184,675borer ,No,murder ,black  male and female,2.0,7,0,0,0,0
+397 889 10  ",156,Salesman,No,murder rape ,"black female, black male (underage)",2.0,0,0,0,0,0
+398 890 8  ",173,675borer ,Yes,murder ,white  male  ,1.0,0,0,0,0,0
+399 891 rape ,2 white females (both underage),2.0,1,0,0,0,0
+400 892 ft 7 in ,205,"construction,  drywall, laborer ",No,murder robbery ,white  male  ,1.0,0,1,0,0,0
+401 893 ft 11 in ,174,"delivery  driver, laborer ",Yes,murder robbery ,two  white males  ,2.0,1,0,0,0,0
+402 894 ft 7 in ,215,675borer ,Yes,murder robbery ,white  male,1.0,12,8,0,0,0
+403 895 3  ",158,"Auto  Mechanic,675borer",Yes,murder rape ,white  female,1.0,3,3,0,0,0
+404 896 8 ",240,Heavy Equipment Operator,Yes,murder ,"white male, 2 white females",3.0,1,11,0,0,0
+405 897  ",184,"Janitor,  Cook,675borer ",No,murder rape abduction ,Asian/male; Asian/female; Asian/female ,3.0,2,1,0,0,0
+406 898 7  ",135,675borer ,No,murder ,white  male ,1.0,1,7,0,0,0
+407 899 rape ,white female (underage),1.0,0,0,0,0,0
+408 900 ,170,675borer ,No,murder ,white  female ,1.0,0,2,1,0,0
+409 901 9 ",168,laborer,Yes,murder robbery ,black male,1.0,0,2,0,0,0
+410 902 ",George,999196,36,2008-11-12,black,Harris748 given,1970-11-21,11.0,1994-06-15,23.0,unknown,unknown,mechanic,No,murder ,black female,1.0,2,4,0,0,0
+411 903 ft 9 in ,230,"barber,  laborer ",Yes,murder rape ,white  female,1.0,0,2,0,0,0
+412 given,2063-03-04,12.0,1999-05-07,36.0,05-Nov,229,675borer ,Yes,murder ,black  female,1.0,2,5,0,0,0
+413 905  Information ,Yes,,Awaiting  Information,1.0,0,0,0,0,0
+414 906 ft 9 in ,140,Mechanic,Yes,murder ,2 black males,2.0,0,2,0,0,0
+415 907 ft 2 in ,190,"truck  driver, plumber, laborer ",Yes,murder ,black  female ,1.0,0,0,0,0,0
+416 908  Services ,No,murder ,Two  hispanic males and two hispanic females  ,4.0,0,0,0,0,0
+417 909 748 given,2062-10-05,11.0,1997-08-18,34.0,"6' 2  ",209,675borer ,Yes,murder ,hispanic  male,1.0,0,0,0,0,1
+418 910 7 ",174,laborer,Yes,murder ,"hispanic female, hispanic male",2.0,6,0,0,0,0
+419 911 ft 9 in ,162,"machine  operator, warehouseman, forklift operator, laborer ",No,murder rape ,black  female ,1.0,0,0,0,0,0
+420 912 8 ",185,Forklift operator,Yes,murder rape ,Unkown female,1.0,0,4,0,0,0
+421 752748 given,1974-03-05,11.0,1993-10-29,19.0,"6' 2  ",208,laborer,No,murder robbery ,white female,1.0,2,0,1,0,0
+422 914 10  ",168,675borer,Yes,murder robbery ,white male,1.0,3,1,0,0,0
+423 915 ft 6 in ,144,"welder,  laborer ",No,murder ,white  male and white female  ,2.0,0,0,0,0,0
+424 916 ,No,murder rape ,hispanic  female ,1.0,4,7,0,0,0
+425 917 ,No,murder burglary ,Unknown  female ,1.0,0,1,0,0,0
+426 918 08  ",156,"Kitchen,  675borer ",Yes,murder robbery ,black  female  ,1.0,0,0,0,0,0
+427 919 7 ",183,Metal Worker,Yes,murder robbery ,white female,1.0,8,0,0,0,0
+428 920 ft 7 in ,180,"auto  mechanic, laborer ",No,murder ,white  male and white female  ,2.0,1,2,0,0,0
+429 921 ,199,Oilfield Worker,Yes,murder robbery ,Not indicated (male),1.0,0,0,0,0,0
+430 922 ft 7 in ,185,675borer ,No,murder ,Three  hispanic males,3.0,0,0,0,0,0
+431 923 ft 1 in ,201,675borer ,No,murder ,hispanic  male,1.0,0,0,1,0,0
+432 924 1  ",150,675borer ,No,murder ,white  male,1.0,1,1,0,0,0
+433 925 ft 7 in ,150,"construction,  carpentry, laborer ",Yes,murder robbery ,hispanic  male,1.0,5,3,0,0,0
+434 926 ft 10 in ,151,"machinist,  laborer ",No,murder ,white  female,1.0,0,0,0,0,0
+435 927 ,No,murder robbery ,Other  male,1.0,3,8,0,0,0
+436 928 ,No,murder rape abduction ,white  female,1.0,0,0,0,0,0
+437 statement,2058-09-07,12.0,1997-02-15,38.0,05-Oct,170,675borer ,No,murder robbery ,white  male,1.0,0,0,0,0,0
+438 930 7 ",175,laborer,No,murder burglary ,2 white males,2.0,0,0,0,0,0
+439 931 ft 5 in ,213,675borer ,No,murder robbery rape ,hispanic  male and hispanic female,2.0,2,3,0,0,0
+440 932 ft 8 in ,184,675borer ,Yes,murder ,hispanic  male,1.0,10,0,0,0,0
+441 933 ,No,murder rape abduction ,black  male,1.0,1,0,0,0,0
+442 909 748 given,1979-01-16,10.0,2000-03-10,21.0,5 ft 11 in ,139,675borer ,No,murder robbery rape abduction ,hispanic  female,1.0,0,0,0,0,0
+443 934 749 statement,2069-12-11,10.0,1998-01-18,28.0,5 ft 7 in ,264,675borer,Yes,murder ,hispanic  male  ,1.0,0,0,0,0,0
+444 935 ft 8 in ,203,"welder,  construction, laborer ",Yes,murder robbery ,unknown  adult male ,1.0,7,12,0,0,0
+445 936 11  ",175,675borer ,Yes,,white  male  ,1.0,1,0,0,0,0
+446 937 ,Yes,murder ,hispanic  male  ,1.0,0,1,0,0,1
+447 938 8 ",190,Construction,No,murder ,hispanic female,1.0,3,0,0,0,0
+448 939 10  ",190,Hair Stylist,No,murder robbery ,black male,1.0,0,1,0,0,0
+449 940 10  ",140,laborer,No,murder ,hispanic male,1.0,0,0,0,0,0
+450 941 ft 9 in ,132,675borer ,No,murder robbery ,white  female,1.0,0,0,0,0,0
+451 942 ,Yes,murder robbery ,Two  unknown males  ,2.0,0,0,0,0,0
+452 943 6  ",135,laborer,Yes,murder rape ,2 white females (both underage),2.0,0,0,0,0,0
+453 944  Maintenance ,Yes,murder robbery ,black male & black Woman,2.0,0,0,0,0,0
+454 945 2  ",218,675borer ,No,murder abduction ,white  female  ,1.0,6,1,0,0,0
+455 946 ft 6 in ,241,"clerk,laborer",No,murder ,black  male,1.0,0,0,0,0,0
+456 947 ft 9 in ,219,"warehouseman,  maintenance mechanic, laborer ",No,murder rape ,white  female  ,1.0,1,3,1,0,0
+457 948 10  ",166,"Stocker, 675borer",Yes,murder robbery ,white male,1.0,0,0,0,0,1
+458 949 9  ",207,675borer ,Yes,murder ,black  male ,1.0,1,1,2,0,0
+459 546 given,1979-03-11,8.0,1998-12-15,19.0,"6' 2  ",193,"cook,  mechanic's helper, laborer ",No,murder ,2  adult males,2.0,2,5,0,0,0
+460 950 11  ",188,mechanic,No,murder rape ,hispanic female,1.0,13,2,0,0,0
+461 951 ft 9 in ,223,"baker,  laborer ",Yes,murder robbery ,Middle Eastern male,1.0,0,4,0,0,1
+462 952  ",174,"Bus  Boy, 675borer ",Yes,murder robbery ,hispanic/male;  hispanic/male ,2.0,0,0,0,0,0
+463 953 ft 8 in ,152,"computer  technology, assembly worker, laborer ",No,murder ,"white  male, white female ",2.0,0,0,0,0,0
+464 954 6  ",180,675borer ,Yes,murder ,black  male  ,1.0,0,0,0,0,0
+465 955 ft 6 in ,169,"auto  body painter, truck driver, auto mechanic, laborer ",No,murder ,"hispanic  male, hispanic female  ",2.0,0,13,0,0,0
+466 956 ft 4 in ,193,"bricklayer,  cook, laborer ",Yes,murder rape abduction ,hispanic  female,1.0,1,2,0,0,0
+467 957 07  ",202,"Roofer,  Stocker, & 675borer ",No,rape abduction ,white  female  ,1.0,0,1,0,0,0
+468 958 ft 10 in ,214,"clerk,  cook, laborer ",Yes,murder robbery ,white  male ,1.0,1,1,0,0,1
+469 959 ft 7 in ,220,"master  mechanic, air conditioning technician, laborer ",No,murder ,"white  male, white female ",2.0,0,1,1,0,0
+470 960 ft 3 in ,145,675borer ,Yes,,"hispanic  male, hispanic female  ",2.0,0,2,0,0,0
+471 961 06  ",179,675borer ,No,murder robbery rape ,white  male and Two white females  ,3.0,5,0,0,0,0
+472 962 ,No,murder ,white  male  ,1.0,0,0,0,0,0
+473 963 9  ",218,Construction,Yes,murder abduction ,black male,1.0,0,5,0,0,0
+474 964 ft 0 in ,182,675borer ,Yes,murder ,Unknown,1.0,0,1,0,0,0
+475 965 10  ",260,"oil  field worker, construction, laborer ",No,murder rape ,black/female  ,1.0,2,9,0,0,0
+476 966 ft 11 in ,288,675borer ,No,murder rape abduction ,white  female  ,1.0,0,0,2,0,0
+477 967 7 ",149,laborer,Yes,murder robbery ,white female,1.0,3,5,0,0,0
+478 Jr.",Donnie,999487,41,2012-10-31,white,Polk748 given,1971-02-09,11.0,2003-10-15,32.0,"6' 01  ",223,Builder/675borer ,Yes,murder robbery ,white  female,1.0,5,3,0,0,0
+479 969 07  ",139,675borer ,No,robbery burglary ,white  female,1.0,0,0,0,0,0
+480 970 ft 9 in ,163,"construction,  food service, laborer ",Yes,murder robbery rape abduction ,hispanic  female  ,1.0,3,0,0,0,0
+481 971 11  ",150,warehouse worker,Yes,murder rape ,black female & black male (both children),2.0,0,0,1,0,0
+482 972 ,black female,1.0,1,8,0,0,0
+483 973 3  ",146 lbs,laborer,Yes,murder rape ,white male,1.0,3,3,0,0,0
+484 974 ft 00 in ,174,"barber,  cook, laborer ",Yes,murder ,black  male,1.0,0,0,0,0,0
+485 975  ",150,675borer ,No,murder rape abduction ,1  white/male; 2 Unknown/females  ,3.0,0,0,0,0,0
+486 976 07  ",178,675borer ,Yes,murder ,2 hispanic  males,2.0,0,2,0,0,0
+487 977 feet 8 inches ,153 lbs. ,laborer ,Yes,murder robbery ,white  male,1.0,0,1,1,0,0
+488 978 ft 10 in ,160,675borer ,Yes,murder rape ,white  male  ,1.0,1,1,0,0,0
+489 979 3  ",188,"occupational  therapist, waitress, home health care, laborer ",Yes,murder robbery ,white  female,1.0,0,1,0,0,0
+490 980 08  ",153,675borer ,Yes,murder ,white  male and white female,2.0,0,0,0,0,0
+491 981 ft 6 in ,150,"Architecture  Design, Clerical ",No,murder ,"black  female, white male",2.0,0,0,0,0,0
+492 982 6  ",198,675borer ,Yes,murder ,2  males ,2.0,0,0,0,0,0
+493 983  ",147,675borer ,Yes,murder ,hispanic/females  ,2.0,0,1,0,0,0
+494 984 8  ",200,675borer ,Yes,murder robbery ,(Race  unknown) male  ,1.0,0,1,0,0,0
+495 ,Lubbock748 given,1970-01-25,12.0,1998-05-09,28.0,"5' 9  ",188,"Steel  Fabrication, Cook, 675borer ",Yes,murder ,white  male and 2 white females ,3.0,0,0,0,0,0
+496 986 ",204 lbs,landscaper,Yes,murder ,white male,1.0,0,3,0,0,0
+497 987 9  ",169 lbs. ,Construction,Yes,murder robbery ,white female,1.0,2,1,0,0,0
+498 988 ",175 lbs,laborer,Yes,murder robbery ,white male,1.0,0,0,0,0,0
+499 989 2",141,"office clerk,  seamstress, laborer",No,murder abduction ,white male,1.0,0,0,0,0,0
+500 990 9",139,675borer ,No,murder robbery ,white  male ,1.0,0,10,0,0,0
+501 991 07  ",182,675borer ,No,murder ,Asian female,1.0,0,0,0,0,0
+502 Verde748 given,1964-06-28,8.0,1999-12-31,35.0,5 ft 9 in ,195,"barber,  mechanic, laborer ",Yes,murder rape ,white female,1.0,0,0,0,0,0
+503 993 2  ",190,675borer ,Yes,murder rape ,white  male and hispanic female  ,2.0,3,5,0,0,0
+504 994 ft 7 in ,186,"cook,  dishwasher, laborer ",No,murder ,hispanic  male and hispanic female ,2.0,1,0,0,0,1
+505 995 ft 5 in ,147,Delivery Man,No,murder ,black male & black Woman,2.0,3,2,0,0,0
+506 996 ft 03 in ,189,675borer ,Yes,,black male,1.0,0,2,0,0,0
+507 997 ft 6 in ,254,675borer ,No,murder ,"hispanic  male, hispanic female, and white male  ",3.0,3,1,0,0,0
+508 998 ft 9 in ,210,,No,murder robbery ,"2 hispanic females, 1 hispanic male",3.0,0,0,0,0,0
+509 999 ,Yes,murder robbery ,white  female  ,1.0,1,0,0,0,0
+510 1000 ft 0 in ,215,"carpenter,  electrician, laborer ",Yes,murder robbery ,white  male ,1.0,0,0,0,0,0
+511 1001 8  ",195,"welder,  carpenter, laborer ",Yes,murder robbery ,hispanic  female,1.0,0,4,0,0,0
+512 1002 10",222,"welder,  construction, laborer",No,murder ,"hispanic  male, white male",2.0,2,0,0,0,0
+513 1003 ft 10 in ,157,675borer,No,murder ,hispanic  male,1.0,1,2,0,0,0
+514 1004  ",179,675borer,Yes,murder rape ,"black  male, black female, black female",3.0,0,0,0,0,0
+515 1005 ft 11 in ,253 lbs,Chemical Salesman,No,murder ,4 white males,4.0,0,0,0,0,0
+516 1006 ft 11 in,299,"barber,  kitchen, laborer",Yes,murder ,white  male,1.0,0,0,0,0,0
+517 1007 7 ",140 lbs.,None ,No,murder ,white male,1.0,2,1,0,0,0
+518 1008 ,Harris748 given,1980-02-18,8.0,1998-09-17,18.0,5 ft 5 in ,183,"construction,  landscaping, laborer ",No,murder ,hispanic  male,1.0,2,0,0,0,1
+519 1009 ft 6 in,156,laborer,No,murder ,white  male,1.0,0,3,0,0,0
